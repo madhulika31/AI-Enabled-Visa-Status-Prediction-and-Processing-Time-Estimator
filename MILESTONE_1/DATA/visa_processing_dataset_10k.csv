@@ -1,0 +1,1000 @@
+application_id,continent,applicant_country,visa_type,processing_center,application_date,decision_date,processing_days,applicant_age,education_level,has_job_experience,full_time_flag,case_status
+APP00001,South America,Brazil,Student,Paris,31-01-2022,21-04-2022,80,29,Master's,Y,Y,Approved
+APP00002,Europe,Germany,Work,Paris,24-02-2020,21-06-2020,118,35,High School,N,N,Approved
+APP00003,South America,Chile,Family,Mumbai,25-09-2023,08-12-2023,74,26,Bachelor's,Y,Y,Approved
+APP00004,Asia,India,Student,Hyderabad,10-08-2021,31-10-2021,82,32,Diploma,Y,Y,Approved
+APP00005,Oceania,Australia,Family,Hyderabad,15-09-2023,09-12-2023,85,20,Bachelor's,Y,N,Approved
+APP00006,Europe,Italy,Family,Bangalore,27-01-2019,09-04-2019,72,27,Bachelor's,Y,Y,Approved
+APP00007,Europe,Netherlands,Business,London,12-02-2022,08-03-2022,24,21,Bachelor's,Y,Y,Approved
+APP00008,Europe,Germany,Tourist,Mumbai,15-01-2020,19-02-2020,35,31,High School,Y,Y,Approved
+APP00009,Africa,Nigeria,Tourist,London,19-12-2021,28-12-2021,9,24,Master's,Y,Y,Approved
+APP00010,Asia,UAE,Business,Sydney,26-05-2020,13-06-2020,18,27,High School,N,N,Approved
+APP00011,Africa,Nigeria,Family,Bangalore,21-01-2023,23-04-2023,92,36,Master's,Y,Y,Approved
+APP00012,Oceania,Australia,Research,Mumbai,07-07-2019,23-10-2019,108,36,Bachelor's,Y,Y,Approved
+APP00013,South America,Brazil,Tourist,Mumbai,11-08-2021,09-09-2021,29,39,Master's,Y,Y,Approved
+APP00014,Asia,Pakistan,Tourist,Toronto,03-02-2023,27-02-2023,24,40,Master's,Y,Y,Approved
+APP00015,Europe,France,Tourist,Hyderabad,29-12-2021,26-01-2022,28,27,Bachelor's,Y,N,Approved
+APP00016,South America,Chile,Research,Mumbai,01-12-2020,28-03-2021,117,26,Diploma,Y,Y,Approved
+APP00017,Oceania,Australia,Work,Toronto,04-04-2023,18-07-2023,105,32,Master's,Y,N,Approved
+APP00018,North America,Mexico,Research,Sydney,18-06-2021,17-09-2021,91,27,Diploma,Y,N,Denied
+APP00019,South America,Argentina,Student,Hyderabad,12-05-2019,26-07-2019,75,28,Bachelor's,Y,Y,Approved
+APP00020,North America,Canada,Tourist,Mumbai,14-05-2021,06-06-2021,23,32,Bachelor's,N,Y,Withdrawn
+APP00021,Oceania,New Zealand,Work,Tokyo,06-08-2024,11-10-2024,66,29,Diploma,Y,N,Approved
+APP00022,Africa,Egypt,Work,Bangalore,25-07-2020,20-10-2020,87,32,High School,Y,N,Approved
+APP00023,Europe,Netherlands,Family,Sydney,12-12-2021,15-03-2022,93,35,Diploma,N,Y,Approved
+APP00024,South America,Chile,Business,Berlin,24-06-2023,16-07-2023,22,45,High School,N,Y,Approved
+APP00025,North America,USA,Work,Sydney,14-07-2024,18-10-2024,96,26,Bachelor's,Y,Y,Approved
+APP00026,Asia,India,Student,Chennai,17-10-2020,23-12-2020,67,33,Bachelor's,Y,N,Approved
+APP00027,South America,Argentina,Family,Mumbai,26-04-2023,05-07-2023,70,27,Master's,N,Y,Approved
+APP00028,Africa,Ghana,Business,Sydney,26-10-2021,12-11-2021,17,39,Bachelor's,Y,Y,Denied
+APP00029,Oceania,Australia,Research,Paris,14-04-2020,31-07-2020,108,35,Bachelor's,Y,N,Denied
+APP00030,South America,Chile,Tourist,Dubai,25-10-2022,17-11-2022,23,32,Bachelor's,Y,Y,Denied
+APP00031,Asia,Japan,Business,Chennai,02-02-2024,20-02-2024,18,24,High School,Y,Y,Approved
+APP00032,Asia,UAE,Research,Bangalore,12-08-2024,05-11-2024,85,34,Master's,Y,Y,Approved
+APP00033,Europe,Spain,Student,Tokyo,07-05-2022,01-08-2022,86,32,Bachelor's,Y,Y,Approved
+APP00034,South America,Chile,Family,Hyderabad,18-09-2020,26-11-2020,69,24,PhD,Y,N,Approved
+APP00035,North America,USA,Family,Dubai,12-12-2024,07-03-2025,85,40,Bachelor's,Y,Y,Approved
+APP00036,Asia,Bangladesh,Tourist,Toronto,21-03-2019,04-04-2019,14,33,Master's,N,N,Approved
+APP00037,Asia,Japan,Tourist,Hyderabad,26-08-2019,20-09-2019,25,29,PhD,N,Y,Approved
+APP00038,Europe,Spain,Student,Mumbai,13-06-2024,05-09-2024,84,35,Diploma,Y,N,Approved
+APP00039,Asia,Bangladesh,Work,Chennai,30-04-2024,18-07-2024,79,31,Bachelor's,N,Y,Approved
+APP00040,Oceania,Australia,Tourist,Sydney,30-09-2023,29-10-2023,29,33,Bachelor's,N,Y,Approved
+APP00041,Europe,Spain,Research,Paris,03-04-2021,18-07-2021,106,33,Master's,N,Y,Approved
+APP00042,South America,Argentina,Business,Tokyo,10-03-2023,31-03-2023,21,37,Master's,N,N,Approved
+APP00043,Africa,Ghana,Business,Mumbai,12-10-2021,17-10-2021,5,28,Bachelor's,Y,Y,Approved
+APP00044,Europe,UK,Tourist,Delhi,31-07-2021,02-09-2021,33,18,High School,Y,N,Approved
+APP00045,Oceania,Australia,Student,Mumbai,30-08-2019,03-12-2019,95,22,Master's,Y,N,Approved
+APP00046,Europe,UK,Student,London,18-10-2019,06-01-2020,80,25,Bachelor's,Y,N,Withdrawn
+APP00047,Oceania,Australia,Tourist,Tokyo,11-06-2024,14-06-2024,3,31,Master's,Y,Y,Approved
+APP00048,Europe,Spain,Work,Paris,20-04-2024,25-07-2024,96,36,Bachelor's,Y,Y,Approved
+APP00049,Europe,Italy,Business,Hyderabad,22-01-2020,27-02-2020,36,32,Bachelor's,Y,N,Approved
+APP00050,Asia,UAE,Business,London,01-10-2023,10-11-2023,40,37,Bachelor's,Y,Y,Approved
+APP00051,Africa,Egypt,Research,Delhi,08-02-2020,23-05-2020,105,35,Bachelor's,Y,Y,Approved
+APP00052,Asia,Pakistan,Research,London,23-03-2020,27-06-2020,96,21,Bachelor's,Y,N,Approved
+APP00053,Europe,Germany,Work,Sydney,12-01-2024,08-05-2024,117,19,Bachelor's,N,N,Approved
+APP00054,Europe,Italy,Work,Bangalore,09-03-2024,19-06-2024,102,25,High School,Y,N,Approved
+APP00055,Europe,UK,Business,Dubai,06-02-2020,16-03-2020,39,21,Bachelor's,Y,N,Approved
+APP00056,Asia,UAE,Family,Delhi,18-01-2020,10-04-2020,83,25,High School,Y,N,Approved
+APP00057,Europe,Germany,Business,Toronto,25-05-2024,01-06-2024,7,35,High School,Y,N,Denied
+APP00058,Europe,Italy,Student,Chennai,02-04-2023,25-06-2023,84,34,Diploma,Y,N,Denied
+APP00059,Asia,Pakistan,Tourist,Dubai,07-02-2024,26-02-2024,19,30,Bachelor's,N,Y,Denied
+APP00060,North America,Canada,Research,Paris,16-06-2024,26-09-2024,102,37,Master's,N,Y,Denied
+APP00061,Europe,Germany,Tourist,Hyderabad,28-08-2019,02-10-2019,35,30,Bachelor's,N,Y,Approved
+APP00062,Oceania,Australia,Research,London,23-08-2019,09-12-2019,108,29,PhD,Y,N,Approved
+APP00063,Asia,Bangladesh,Business,Sydney,15-12-2024,18-12-2024,3,21,Bachelor's,N,N,Approved
+APP00064,Europe,UK,Family,Mumbai,31-01-2021,25-04-2021,84,23,High School,Y,Y,Denied
+APP00065,Asia,Bangladesh,Student,Tokyo,21-08-2021,09-11-2021,80,27,High School,N,N,Approved
+APP00066,Africa,Nigeria,Family,Hyderabad,12-06-2019,02-09-2019,82,26,High School,N,N,Approved
+APP00067,Oceania,Australia,Business,Tokyo,11-11-2024,14-11-2024,3,20,Master's,N,N,Approved
+APP00068,North America,Canada,Work,Tokyo,10-07-2022,04-10-2022,86,28,Master's,Y,Y,Denied
+APP00069,Europe,France,Business,Chennai,13-05-2022,27-05-2022,14,22,High School,Y,Y,Approved
+APP00070,Africa,South Africa,Student,Delhi,21-02-2024,09-05-2024,78,24,Master's,Y,N,Approved
+APP00071,Oceania,Australia,Student,Sydney,23-05-2021,19-08-2021,88,27,Diploma,N,Y,Withdrawn
+APP00072,Oceania,New Zealand,Work,London,09-10-2019,09-01-2020,92,30,High School,Y,N,Approved
+APP00073,Europe,France,Tourist,Chennai,30-11-2023,13-01-2024,44,36,Bachelor's,Y,Y,Denied
+APP00074,Oceania,New Zealand,Family,Dubai,06-12-2024,22-03-2025,106,24,Diploma,Y,Y,Approved
+APP00075,Asia,UAE,Family,Bangalore,29-02-2020,09-05-2020,70,31,PhD,N,N,Approved
+APP00076,Europe,France,Student,Mumbai,28-09-2020,07-01-2021,101,25,Bachelor's,Y,N,Denied
+APP00077,North America,Canada,Family,Hyderabad,05-11-2022,13-01-2023,69,42,Master's,N,Y,Approved
+APP00078,Europe,Netherlands,Research,Bangalore,01-09-2024,24-12-2024,114,26,PhD,Y,Y,Approved
+APP00079,Africa,South Africa,Student,Mumbai,01-10-2023,13-12-2023,73,38,Bachelor's,Y,Y,Denied
+APP00080,North America,USA,Student,London,19-06-2020,22-09-2020,95,30,Master's,N,N,Approved
+APP00081,South America,Argentina,Work,Paris,15-12-2023,01-03-2024,77,29,PhD,Y,Y,Approved
+APP00082,Oceania,New Zealand,Family,Delhi,03-04-2020,03-06-2020,61,38,High School,Y,Y,Approved
+APP00083,Asia,UAE,Work,Sydney,28-05-2019,09-09-2019,104,30,Bachelor's,Y,N,Approved
+APP00084,North America,Mexico,Family,Chennai,27-10-2023,22-01-2024,87,39,Master's,Y,Y,Approved
+APP00085,Europe,UK,Tourist,London,13-06-2019,20-07-2019,37,18,Bachelor's,Y,N,Approved
+APP00086,North America,USA,Research,Hyderabad,26-02-2020,28-06-2020,123,30,Bachelor's,Y,N,Denied
+APP00087,North America,Mexico,Business,Berlin,25-09-2020,28-09-2020,3,29,Bachelor's,N,Y,Approved
+APP00088,Europe,Germany,Work,New York,12-04-2019,25-06-2019,74,34,High School,Y,Y,Approved
+APP00089,Europe,Netherlands,Tourist,Dubai,14-08-2023,07-09-2023,24,23,Diploma,Y,N,Approved
+APP00090,South America,Chile,Work,Bangalore,14-10-2020,31-12-2020,78,33,Diploma,Y,Y,Approved
+APP00091,South America,Brazil,Business,Delhi,11-04-2024,24-04-2024,13,22,Diploma,Y,Y,Approved
+APP00092,Europe,Germany,Business,London,04-06-2022,10-06-2022,6,31,Master's,N,Y,Approved
+APP00093,Europe,Germany,Student,Tokyo,02-03-2021,23-05-2021,82,35,Diploma,Y,Y,Approved
+APP00094,Africa,South Africa,Tourist,Mumbai,17-02-2022,20-02-2022,3,39,Bachelor's,N,Y,Approved
+APP00095,North America,Mexico,Family,New York,18-09-2022,13-12-2022,86,32,Bachelor's,Y,Y,Approved
+APP00096,Asia,India,Tourist,Chennai,23-12-2021,04-01-2022,12,31,Diploma,Y,Y,Approved
+APP00097,Asia,India,Family,New York,16-11-2022,01-02-2023,77,22,High School,N,Y,Approved
+APP00098,South America,Argentina,Business,Berlin,25-09-2024,09-10-2024,14,40,High School,Y,Y,Approved
+APP00099,Asia,Pakistan,Family,Hyderabad,09-11-2021,15-01-2022,67,28,Diploma,Y,N,Approved
+APP00100,Asia,UAE,Business,Delhi,30-10-2024,02-11-2024,3,33,High School,Y,Y,Approved
+APP00101,Oceania,Australia,Tourist,New York,14-10-2019,31-10-2019,17,23,Diploma,N,Y,Approved
+APP00102,South America,Argentina,Family,London,25-05-2020,16-08-2020,83,29,High School,Y,N,Denied
+APP00103,South America,Argentina,Family,Bangalore,31-07-2023,12-10-2023,73,35,Diploma,Y,N,Approved
+APP00104,North America,Canada,Research,Bangalore,05-06-2020,28-08-2020,84,33,Master's,Y,Y,Approved
+APP00105,Europe,Italy,Research,New York,13-12-2020,03-03-2021,80,30,High School,Y,Y,Approved
+APP00106,Oceania,New Zealand,Business,Sydney,02-01-2019,16-01-2019,14,21,Bachelor's,Y,Y,Approved
+APP00107,North America,Canada,Work,New York,12-08-2022,27-11-2022,107,25,Diploma,Y,N,Approved
+APP00108,Africa,Egypt,Business,Tokyo,25-05-2021,28-05-2021,3,24,Bachelor's,N,N,Withdrawn
+APP00109,Oceania,New Zealand,Research,Chennai,14-12-2019,27-03-2020,104,25,Master's,Y,Y,Approved
+APP00110,North America,Mexico,Research,Tokyo,04-10-2022,26-01-2023,114,31,High School,N,Y,Approved
+APP00111,Asia,China,Research,Bangalore,09-07-2021,26-10-2021,109,27,Bachelor's,Y,Y,Denied
+APP00112,Europe,Germany,Student,Delhi,29-09-2021,11-01-2022,104,27,Bachelor's,Y,Y,Approved
+APP00113,Africa,Ghana,Student,Toronto,25-08-2023,23-11-2023,90,41,Diploma,N,Y,Approved
+APP00114,South America,Chile,Work,Paris,22-04-2023,23-07-2023,92,35,High School,N,N,Approved
+APP00115,Africa,Egypt,Work,Chennai,23-01-2019,07-05-2019,104,27,Bachelor's,Y,N,Approved
+APP00116,Asia,Pakistan,Work,Chennai,22-10-2024,14-01-2025,84,24,Diploma,N,Y,Approved
+APP00117,Africa,Nigeria,Family,Hyderabad,12-05-2020,05-08-2020,85,32,Bachelor's,N,Y,Denied
+APP00118,Africa,Kenya,Business,Tokyo,15-12-2024,26-12-2024,11,23,Master's,Y,Y,Approved
+APP00119,Oceania,New Zealand,Business,Berlin,29-08-2024,23-09-2024,25,39,Bachelor's,Y,Y,Approved
+APP00120,Africa,Ghana,Business,Chennai,28-04-2024,01-05-2024,3,40,Bachelor's,N,Y,Approved
+APP00121,Africa,South Africa,Work,Tokyo,09-02-2022,18-06-2022,129,30,High School,N,N,Approved
+APP00122,Oceania,New Zealand,Research,Hyderabad,29-01-2022,14-05-2022,105,31,Master's,Y,Y,Approved
+APP00123,Africa,Nigeria,Research,Bangalore,18-08-2021,15-12-2021,119,26,Master's,N,Y,Approved
+APP00124,North America,Canada,Tourist,Sydney,27-11-2019,29-12-2019,32,37,Bachelor's,Y,Y,Approved
+APP00125,Europe,Germany,Work,New York,17-09-2020,03-12-2020,77,18,Bachelor's,N,Y,Approved
+APP00126,South America,Brazil,Student,New York,28-07-2023,21-10-2023,85,41,Diploma,Y,Y,Approved
+APP00127,North America,Mexico,Business,New York,13-09-2019,16-09-2019,3,29,Master's,Y,Y,Approved
+APP00128,Europe,Italy,Business,Dubai,22-03-2019,02-04-2019,11,22,High School,N,Y,Approved
+APP00129,Oceania,New Zealand,Business,Delhi,11-12-2022,26-12-2022,15,29,Diploma,N,Y,Approved
+APP00130,North America,Canada,Business,Sydney,22-06-2021,11-07-2021,19,26,Bachelor's,Y,N,Approved
+APP00131,Africa,Kenya,Tourist,New York,12-06-2024,15-06-2024,3,37,Bachelor's,Y,Y,Approved
+APP00132,Asia,Pakistan,Tourist,Tokyo,15-07-2023,18-07-2023,3,24,Bachelor's,Y,Y,Approved
+APP00133,South America,Brazil,Business,Chennai,27-12-2024,22-01-2025,26,38,High School,Y,Y,Approved
+APP00134,Asia,Pakistan,Family,Berlin,22-04-2019,04-07-2019,73,33,Bachelor's,Y,Y,Approved
+APP00135,Asia,UAE,Business,Chennai,06-03-2024,29-03-2024,23,33,Master's,Y,N,Approved
+APP00136,Europe,UK,Tourist,New York,02-09-2022,04-10-2022,32,27,High School,Y,Y,Approved
+APP00137,Europe,Italy,Tourist,London,02-04-2023,02-05-2023,30,21,Bachelor's,N,N,Approved
+APP00138,North America,Canada,Tourist,Mumbai,10-04-2024,03-05-2024,23,20,Bachelor's,Y,N,Approved
+APP00139,Asia,UAE,Family,Delhi,04-12-2022,28-01-2023,55,41,Diploma,N,N,Approved
+APP00140,Europe,Netherlands,Student,Dubai,14-06-2019,11-09-2019,89,37,Master's,N,Y,Approved
+APP00141,Asia,China,Work,Delhi,16-09-2020,23-12-2020,98,18,Bachelor's,Y,Y,Denied
+APP00142,Europe,Germany,Business,Tokyo,13-04-2020,28-04-2020,15,32,Diploma,Y,Y,Denied
+APP00143,Oceania,Australia,Business,Paris,15-11-2021,07-12-2021,22,23,Diploma,Y,N,Denied
+APP00144,North America,USA,Family,Berlin,14-04-2020,11-07-2020,88,36,Bachelor's,Y,Y,Denied
+APP00145,Europe,France,Student,Berlin,16-04-2019,07-06-2019,52,21,Bachelor's,Y,Y,Approved
+APP00146,North America,Mexico,Research,New York,13-06-2023,23-09-2023,102,24,Diploma,Y,Y,Approved
+APP00147,South America,Brazil,Student,Berlin,21-09-2021,08-12-2021,78,37,Bachelor's,Y,N,Denied
+APP00148,Asia,UAE,Tourist,Tokyo,10-05-2020,19-05-2020,9,34,High School,Y,Y,Approved
+APP00149,Oceania,Australia,Tourist,Sydney,21-10-2023,15-12-2023,55,29,Bachelor's,N,Y,Approved
+APP00150,South America,Argentina,Student,Sydney,29-10-2022,11-01-2023,74,42,Bachelor's,Y,Y,Denied
+APP00151,Asia,Pakistan,Business,Mumbai,11-11-2023,03-12-2023,22,36,Diploma,Y,Y,Approved
+APP00152,North America,Mexico,Business,Paris,18-09-2020,02-10-2020,14,34,Diploma,Y,N,Approved
+APP00153,Africa,Kenya,Research,Sydney,11-01-2022,27-04-2022,106,37,Bachelor's,N,Y,Approved
+APP00154,Oceania,New Zealand,Business,New York,04-01-2022,24-01-2022,20,31,Diploma,Y,N,Approved
+APP00155,North America,USA,Student,Bangalore,21-01-2024,28-03-2024,67,37,Master's,N,N,Approved
+APP00156,Europe,Italy,Family,Berlin,02-04-2023,21-06-2023,80,30,Bachelor's,N,Y,Approved
+APP00157,North America,USA,Business,London,14-01-2021,28-01-2021,14,27,High School,Y,Y,Approved
+APP00158,Africa,Kenya,Tourist,Dubai,24-11-2021,18-12-2021,24,26,Bachelor's,N,Y,Approved
+APP00159,North America,Canada,Family,Paris,05-02-2022,04-05-2022,88,36,Diploma,Y,N,Approved
+APP00160,Oceania,Australia,Family,Hyderabad,17-12-2019,11-03-2020,85,37,Master's,N,N,Approved
+APP00161,Europe,Netherlands,Business,Toronto,11-09-2021,19-09-2021,8,39,Bachelor's,Y,N,Withdrawn
+APP00162,South America,Argentina,Research,Paris,03-07-2024,05-10-2024,94,40,Bachelor's,N,Y,Approved
+APP00163,Africa,Nigeria,Student,Bangalore,26-06-2021,07-09-2021,73,23,Diploma,Y,Y,Approved
+APP00164,Africa,Kenya,Tourist,Tokyo,20-02-2023,11-03-2023,19,31,Bachelor's,Y,Y,Denied
+APP00165,Africa,Ghana,Family,London,09-10-2023,08-01-2024,91,28,Master's,Y,N,Approved
+APP00166,South America,Chile,Tourist,London,02-02-2024,23-02-2024,21,33,Bachelor's,Y,Y,Approved
+APP00167,North America,Canada,Tourist,Hyderabad,09-05-2020,26-05-2020,17,26,Master's,Y,Y,Withdrawn
+APP00168,South America,Brazil,Tourist,Mumbai,28-01-2021,13-03-2021,44,26,Bachelor's,Y,N,Approved
+APP00169,Europe,Germany,Research,Toronto,06-02-2022,19-05-2022,102,19,Bachelor's,Y,Y,Denied
+APP00170,South America,Chile,Family,Berlin,05-03-2022,16-05-2022,72,27,Master's,N,N,Denied
+APP00171,Asia,China,Tourist,Hyderabad,18-01-2023,26-02-2023,39,44,High School,Y,Y,Approved
+APP00172,Europe,France,Student,Paris,27-12-2024,11-03-2025,74,42,High School,Y,N,Approved
+APP00173,Europe,France,Student,Delhi,11-04-2022,24-06-2022,74,38,Bachelor's,Y,N,Approved
+APP00174,South America,Brazil,Research,Dubai,03-07-2024,19-10-2024,108,42,Diploma,N,N,Approved
+APP00175,Asia,India,Family,Bangalore,06-04-2024,09-07-2024,94,33,Bachelor's,Y,N,Approved
+APP00176,Africa,Egypt,Tourist,Chennai,30-07-2019,16-08-2019,17,31,Bachelor's,N,Y,Denied
+APP00177,North America,Canada,Student,Mumbai,30-06-2023,03-10-2023,95,38,High School,Y,N,Withdrawn
+APP00178,Africa,Nigeria,Family,Tokyo,08-08-2019,10-10-2019,63,35,Bachelor's,Y,N,Approved
+APP00179,Europe,Germany,Family,Bangalore,15-12-2019,06-03-2020,82,41,PhD,Y,N,Denied
+APP00180,Europe,UK,Family,Dubai,01-09-2023,19-11-2023,79,31,Bachelor's,N,Y,Approved
+APP00181,Oceania,Australia,Family,New York,20-01-2024,28-04-2024,99,19,High School,N,N,Withdrawn
+APP00182,Africa,South Africa,Family,New York,04-06-2022,16-08-2022,73,32,Master's,Y,Y,Approved
+APP00183,Oceania,Australia,Family,Paris,11-02-2020,24-05-2020,103,29,Bachelor's,Y,Y,Withdrawn
+APP00184,Europe,Netherlands,Work,Bangalore,29-11-2019,09-02-2020,72,18,Diploma,N,N,Approved
+APP00185,Europe,Germany,Work,Sydney,04-11-2019,04-02-2020,92,26,Bachelor's,Y,N,Approved
+APP00186,Europe,UK,Business,Toronto,08-04-2024,05-05-2024,27,29,Bachelor's,Y,Y,Approved
+APP00187,North America,USA,Work,Bangalore,04-03-2022,16-06-2022,104,31,Master's,Y,Y,Approved
+APP00188,South America,Argentina,Student,Tokyo,14-08-2021,27-10-2021,74,40,Master's,Y,N,Approved
+APP00189,North America,Mexico,Family,Tokyo,21-03-2021,13-06-2021,84,33,Master's,N,N,Approved
+APP00190,Africa,Nigeria,Family,Hyderabad,02-09-2020,23-11-2020,82,34,Master's,Y,Y,Approved
+APP00191,North America,USA,Student,Delhi,10-11-2020,20-01-2021,71,42,Diploma,Y,Y,Approved
+APP00192,North America,Mexico,Research,Berlin,28-03-2022,16-07-2022,110,25,Bachelor's,Y,Y,Approved
+APP00193,Africa,Nigeria,Business,Paris,30-05-2022,08-06-2022,9,18,Bachelor's,Y,N,Denied
+APP00194,South America,Argentina,Tourist,Sydney,15-07-2024,23-07-2024,8,29,Diploma,N,Y,Approved
+APP00195,Africa,Nigeria,Family,Delhi,05-11-2023,11-02-2024,98,36,Bachelor's,Y,Y,Approved
+APP00196,South America,Argentina,Family,Bangalore,16-04-2019,02-07-2019,77,25,High School,Y,Y,Approved
+APP00197,Asia,China,Research,Berlin,26-03-2019,30-07-2019,126,34,Master's,Y,Y,Approved
+APP00198,South America,Argentina,Family,Delhi,18-12-2020,24-03-2021,96,36,High School,N,Y,Approved
+APP00199,Africa,Ghana,Research,Toronto,13-02-2022,01-06-2022,108,32,Master's,N,Y,Denied
+APP00200,Europe,Spain,Business,Tokyo,07-07-2024,06-08-2024,30,31,Bachelor's,Y,Y,Approved
+APP00201,Asia,Pakistan,Tourist,New York,27-09-2022,09-10-2022,12,26,Master's,Y,N,Approved
+APP00202,North America,Mexico,Student,Chennai,12-09-2022,17-12-2022,96,25,Bachelor's,Y,Y,Approved
+APP00203,Africa,Egypt,Tourist,Tokyo,29-06-2023,19-07-2023,20,30,Diploma,Y,Y,Approved
+APP00204,Oceania,Australia,Business,Mumbai,12-07-2022,28-07-2022,16,18,Master's,N,N,Approved
+APP00205,North America,Canada,Student,Dubai,14-07-2023,02-10-2023,80,19,PhD,Y,N,Approved
+APP00206,Oceania,Australia,Research,Sydney,07-03-2024,10-07-2024,125,26,Bachelor's,N,N,Approved
+APP00207,Africa,Nigeria,Work,Sydney,21-01-2023,08-05-2023,107,18,Master's,Y,N,Approved
+APP00208,Oceania,New Zealand,Research,Toronto,31-07-2019,31-10-2019,92,32,Master's,N,Y,Approved
+APP00209,Europe,France,Family,Chennai,25-03-2022,12-06-2022,79,38,Diploma,N,Y,Approved
+APP00210,Africa,Egypt,Student,Delhi,07-09-2021,19-12-2021,103,18,Diploma,Y,N,Approved
+APP00211,South America,Brazil,Tourist,Sydney,26-02-2019,02-03-2019,4,38,Master's,Y,N,Approved
+APP00212,Oceania,New Zealand,Student,Hyderabad,09-04-2020,23-06-2020,75,21,Bachelor's,N,Y,Approved
+APP00213,Africa,Nigeria,Research,Chennai,03-08-2024,29-11-2024,118,35,Diploma,Y,Y,Approved
+APP00214,South America,Argentina,Family,Paris,24-01-2022,10-04-2022,76,44,Master's,N,Y,Denied
+APP00215,Africa,Egypt,Business,Hyderabad,14-02-2024,25-02-2024,11,28,Diploma,Y,Y,Denied
+APP00216,Oceania,Australia,Business,Hyderabad,12-09-2024,10-10-2024,28,29,Bachelor's,Y,Y,Approved
+APP00217,South America,Brazil,Student,Bangalore,27-08-2023,05-12-2023,100,32,Bachelor's,Y,Y,Approved
+APP00218,North America,Mexico,Tourist,Delhi,04-03-2022,13-04-2022,40,22,Diploma,Y,N,Approved
+APP00219,South America,Argentina,Family,Berlin,28-06-2024,08-09-2024,72,43,Master's,Y,N,Denied
+APP00220,Europe,Italy,Family,Toronto,14-11-2022,03-02-2023,81,32,Bachelor's,Y,N,Approved
+APP00221,North America,Mexico,Family,New York,09-02-2024,12-05-2024,93,38,Diploma,Y,Y,Approved
+APP00222,North America,USA,Research,Hyderabad,18-04-2023,04-08-2023,108,24,PhD,Y,N,Approved
+APP00223,Europe,Italy,Student,London,21-04-2024,08-07-2024,78,32,Bachelor's,N,N,Approved
+APP00224,South America,Argentina,Business,Tokyo,15-09-2020,14-10-2020,29,21,Master's,N,N,Approved
+APP00225,Africa,Nigeria,Work,Sydney,21-09-2022,18-12-2022,88,30,Bachelor's,Y,Y,Approved
+APP00226,Asia,Pakistan,Student,Sydney,15-02-2024,19-05-2024,94,24,Bachelor's,Y,Y,Approved
+APP00227,Asia,UAE,Work,New York,24-09-2020,11-01-2021,109,37,Bachelor's,Y,Y,Denied
+APP00228,Asia,Pakistan,Tourist,London,17-06-2023,20-06-2023,3,46,High School,Y,Y,Approved
+APP00229,South America,Brazil,Tourist,Tokyo,25-12-2024,02-02-2025,39,47,Bachelor's,N,N,Approved
+APP00230,Africa,South Africa,Research,Paris,21-06-2024,08-10-2024,109,31,Diploma,N,Y,Denied
+APP00231,Oceania,Australia,Family,Mumbai,19-08-2021,02-11-2021,75,28,Bachelor's,Y,Y,Approved
+APP00232,South America,Chile,Tourist,Hyderabad,06-01-2020,04-02-2020,29,39,Bachelor's,Y,N,Approved
+APP00233,Africa,Nigeria,Research,Paris,16-02-2020,14-05-2020,88,28,Diploma,Y,Y,Approved
+APP00234,Africa,Kenya,Research,Bangalore,29-04-2019,30-07-2019,92,32,Bachelor's,Y,N,Approved
+APP00235,Asia,Japan,Student,Bangalore,08-01-2023,26-03-2023,77,39,High School,Y,N,Approved
+APP00236,North America,Canada,Work,Hyderabad,15-12-2024,20-03-2025,95,30,Diploma,Y,N,Approved
+APP00237,Africa,Ghana,Research,Dubai,07-01-2021,02-04-2021,85,25,Master's,Y,N,Approved
+APP00238,Europe,Germany,Student,Berlin,16-04-2023,21-06-2023,66,31,Bachelor's,Y,Y,Approved
+APP00239,Oceania,Australia,Business,Berlin,09-08-2020,05-09-2020,27,32,Diploma,Y,Y,Approved
+APP00240,Europe,Italy,Research,Bangalore,26-02-2024,16-06-2024,111,45,Diploma,Y,Y,Approved
+APP00241,North America,Mexico,Student,Dubai,20-03-2024,24-05-2024,65,41,Bachelor's,N,N,Withdrawn
+APP00242,North America,Mexico,Family,Chennai,30-10-2019,24-01-2020,86,41,Diploma,Y,Y,Denied
+APP00243,Africa,South Africa,Family,Bangalore,04-10-2023,16-12-2023,73,22,Diploma,Y,Y,Approved
+APP00244,South America,Argentina,Business,Bangalore,26-03-2021,12-04-2021,17,19,Master's,Y,Y,Approved
+APP00245,Africa,Egypt,Student,Hyderabad,12-04-2023,10-07-2023,89,21,PhD,Y,Y,Approved
+APP00246,Oceania,New Zealand,Family,Bangalore,24-04-2022,04-07-2022,71,29,Bachelor's,N,Y,Approved
+APP00247,Asia,UAE,Business,Bangalore,03-02-2019,20-02-2019,17,20,High School,Y,N,Approved
+APP00248,Oceania,Australia,Family,Paris,27-07-2024,02-11-2024,98,34,Master's,Y,Y,Approved
+APP00249,North America,USA,Family,Dubai,14-12-2022,23-03-2023,99,30,Bachelor's,Y,Y,Approved
+APP00250,Europe,Netherlands,Work,Berlin,23-10-2021,22-01-2022,91,28,Master's,N,Y,Approved
+APP00251,South America,Chile,Research,Tokyo,14-07-2020,12-10-2020,90,20,High School,N,Y,Approved
+APP00252,South America,Brazil,Research,Tokyo,11-06-2019,05-09-2019,86,18,Bachelor's,Y,N,Approved
+APP00253,North America,Canada,Student,Berlin,03-02-2023,24-04-2023,80,29,Bachelor's,N,N,Denied
+APP00254,South America,Brazil,Student,Bangalore,31-08-2022,20-11-2022,81,36,High School,Y,Y,Approved
+APP00255,South America,Argentina,Work,Hyderabad,25-06-2020,23-09-2020,90,29,Bachelor's,N,Y,Denied
+APP00256,Oceania,New Zealand,Family,Sydney,21-01-2022,10-04-2022,79,35,Bachelor's,N,Y,Approved
+APP00257,Europe,France,Business,Dubai,23-04-2022,26-04-2022,3,27,Bachelor's,Y,Y,Approved
+APP00258,South America,Argentina,Student,Toronto,05-11-2019,19-01-2020,75,33,PhD,Y,Y,Approved
+APP00259,Europe,Germany,Research,Paris,16-06-2023,12-09-2023,88,28,Bachelor's,Y,N,Approved
+APP00260,Oceania,New Zealand,Student,Dubai,05-06-2023,31-08-2023,87,40,High School,N,Y,Approved
+APP00261,Asia,Japan,Family,Mumbai,06-02-2024,18-04-2024,72,27,Bachelor's,Y,Y,Withdrawn
+APP00262,North America,Mexico,Research,Tokyo,09-12-2021,24-03-2022,105,38,Bachelor's,Y,Y,Approved
+APP00263,Oceania,New Zealand,Research,London,19-03-2020,10-06-2020,83,28,Bachelor's,Y,N,Approved
+APP00264,South America,Brazil,Business,Delhi,05-09-2022,13-09-2022,8,18,High School,Y,N,Approved
+APP00265,Oceania,Australia,Research,Mumbai,16-03-2024,11-06-2024,87,31,High School,Y,N,Denied
+APP00266,South America,Argentina,Research,New York,22-04-2020,30-07-2020,99,34,High School,Y,Y,Denied
+APP00267,Europe,UK,Student,Bangalore,10-07-2024,12-10-2024,94,23,Diploma,Y,N,Approved
+APP00268,Asia,India,Work,Sydney,09-07-2020,25-09-2020,78,18,Bachelor's,N,N,Withdrawn
+APP00269,Africa,Egypt,Tourist,Tokyo,13-09-2023,24-09-2023,11,37,Bachelor's,Y,Y,Denied
+APP00270,Oceania,Australia,Business,Tokyo,10-02-2020,26-03-2020,45,25,Bachelor's,N,N,Approved
+APP00271,Africa,Ghana,Business,Bangalore,15-05-2019,30-05-2019,15,24,Diploma,N,Y,Approved
+APP00272,South America,Argentina,Work,Toronto,27-12-2023,21-03-2024,85,31,High School,Y,N,Approved
+APP00273,Europe,France,Student,Tokyo,13-02-2023,12-04-2023,58,23,Bachelor's,N,N,Approved
+APP00274,Oceania,New Zealand,Student,New York,04-02-2022,04-05-2022,89,35,Diploma,Y,Y,Withdrawn
+APP00275,Europe,UK,Business,Mumbai,18-05-2021,18-06-2021,31,24,Bachelor's,Y,Y,Approved
+APP00276,South America,Chile,Family,Delhi,27-07-2019,30-10-2019,95,33,Bachelor's,Y,Y,Withdrawn
+APP00277,North America,USA,Work,Dubai,20-04-2021,16-07-2021,87,36,PhD,Y,Y,Approved
+APP00278,Asia,Bangladesh,Work,Berlin,03-06-2021,07-09-2021,96,37,High School,Y,N,Approved
+APP00279,Europe,France,Work,Dubai,12-01-2019,09-04-2019,87,18,Bachelor's,Y,N,Approved
+APP00280,North America,USA,Work,Sydney,23-10-2021,23-01-2022,92,28,Master's,Y,Y,Denied
+APP00281,Europe,UK,Research,Delhi,23-06-2020,03-10-2020,102,31,Master's,Y,N,Approved
+APP00282,Asia,Japan,Work,Berlin,19-08-2022,24-11-2022,97,38,Diploma,Y,N,Denied
+APP00283,Asia,China,Tourist,Delhi,03-06-2020,02-07-2020,29,25,Master's,Y,Y,Denied
+APP00284,South America,Argentina,Family,Mumbai,18-09-2019,10-12-2019,83,41,Bachelor's,Y,Y,Approved
+APP00285,Africa,Egypt,Tourist,Sydney,22-03-2020,27-04-2020,36,32,Bachelor's,N,Y,Approved
+APP00286,Africa,Ghana,Work,Berlin,27-06-2019,22-09-2019,87,24,Master's,Y,Y,Approved
+APP00287,South America,Chile,Family,Bangalore,20-02-2024,25-04-2024,65,33,Bachelor's,N,Y,Approved
+APP00288,South America,Brazil,Student,Toronto,04-07-2023,22-09-2023,80,34,PhD,Y,Y,Approved
+APP00289,Africa,Nigeria,Business,Paris,22-12-2023,14-01-2024,23,27,PhD,Y,Y,Approved
+APP00290,Asia,India,Tourist,Berlin,30-08-2020,26-09-2020,27,36,Bachelor's,Y,N,Approved
+APP00291,Asia,China,Tourist,Berlin,24-08-2022,30-08-2022,6,38,Master's,Y,Y,Approved
+APP00292,Africa,Ghana,Family,Bangalore,02-02-2024,15-04-2024,73,31,Bachelor's,Y,Y,Approved
+APP00293,Oceania,New Zealand,Student,Dubai,13-04-2020,09-07-2020,87,34,Diploma,N,Y,Approved
+APP00294,South America,Chile,Family,Paris,30-05-2021,15-08-2021,77,26,Master's,N,N,Approved
+APP00295,Africa,Egypt,Work,New York,20-10-2022,04-01-2023,76,28,Bachelor's,Y,Y,Approved
+APP00296,Africa,Egypt,Business,Paris,25-01-2020,27-02-2020,33,34,PhD,N,N,Approved
+APP00297,North America,Canada,Tourist,Tokyo,10-11-2021,26-12-2021,46,34,High School,Y,N,Approved
+APP00298,North America,USA,Research,Toronto,02-10-2019,06-02-2020,127,40,Diploma,Y,Y,Approved
+APP00299,Asia,India,Student,New York,31-01-2020,21-04-2020,81,18,Diploma,N,Y,Approved
+APP00300,South America,Chile,Tourist,Dubai,16-06-2020,12-07-2020,26,26,Bachelor's,Y,Y,Approved
+APP00301,Oceania,Australia,Family,Sydney,12-09-2022,05-12-2022,84,42,Bachelor's,N,N,Approved
+APP00302,South America,Brazil,Business,London,29-09-2023,02-10-2023,3,32,Master's,Y,N,Approved
+APP00303,South America,Brazil,Tourist,Berlin,03-07-2022,21-07-2022,18,28,Diploma,Y,N,Approved
+APP00304,North America,USA,Family,Sydney,21-05-2021,24-08-2021,95,24,Bachelor's,N,Y,Approved
+APP00305,Europe,Netherlands,Business,Hyderabad,19-03-2020,22-03-2020,3,36,Bachelor's,N,Y,Approved
+APP00306,North America,Mexico,Tourist,Mumbai,15-02-2022,07-03-2022,20,33,Master's,Y,Y,Approved
+APP00307,Oceania,Australia,Business,Sydney,18-04-2019,17-05-2019,29,21,Diploma,Y,Y,Withdrawn
+APP00308,Oceania,New Zealand,Student,Chennai,24-01-2022,20-03-2022,55,38,High School,Y,Y,Approved
+APP00309,South America,Argentina,Tourist,London,26-01-2019,24-02-2019,29,38,Bachelor's,Y,N,Approved
+APP00310,Europe,Germany,Family,Tokyo,30-06-2023,20-09-2023,82,27,Bachelor's,Y,Y,Approved
+APP00311,Asia,China,Research,Tokyo,06-05-2019,24-08-2019,110,36,Bachelor's,Y,N,Approved
+APP00312,Asia,UAE,Family,Hyderabad,21-03-2023,09-06-2023,80,24,Master's,Y,Y,Approved
+APP00313,Africa,Egypt,Tourist,Chennai,24-02-2023,08-03-2023,12,24,Diploma,Y,N,Approved
+APP00314,North America,Mexico,Tourist,Dubai,14-12-2019,13-01-2020,30,28,Master's,N,Y,Approved
+APP00315,Asia,China,Work,Dubai,23-07-2019,05-11-2019,105,29,Bachelor's,Y,Y,Approved
+APP00316,South America,Brazil,Tourist,Toronto,03-10-2023,17-10-2023,14,38,Master's,N,Y,Approved
+APP00317,Africa,Ghana,Business,New York,23-01-2022,18-02-2022,26,25,Bachelor's,Y,N,Approved
+APP00318,Europe,Spain,Student,London,27-10-2023,10-01-2024,75,35,Diploma,Y,N,Approved
+APP00319,Asia,Japan,Research,Tokyo,16-06-2024,19-09-2024,95,27,Diploma,N,N,Approved
+APP00320,Oceania,New Zealand,Student,Hyderabad,07-06-2023,29-09-2023,114,22,High School,N,N,Approved
+APP00321,Oceania,Australia,Student,Hyderabad,19-05-2022,06-08-2022,79,33,PhD,Y,N,Approved
+APP00322,Europe,Germany,Tourist,Bangalore,05-09-2022,22-09-2022,17,36,Diploma,Y,Y,Approved
+APP00323,Asia,India,Business,Paris,30-10-2023,25-11-2023,26,32,High School,N,Y,Denied
+APP00324,Europe,Germany,Business,Sydney,31-07-2021,17-08-2021,17,39,Master's,Y,Y,Denied
+APP00325,Oceania,New Zealand,Student,New York,23-06-2019,26-08-2019,64,25,Bachelor's,N,Y,Approved
+APP00326,Africa,Nigeria,Business,Mumbai,06-07-2022,31-07-2022,25,33,High School,Y,Y,Approved
+APP00327,Oceania,New Zealand,Family,New York,07-09-2023,15-12-2023,99,27,Bachelor's,Y,Y,Denied
+APP00328,North America,USA,Business,Delhi,23-08-2022,16-09-2022,24,29,Bachelor's,Y,N,Approved
+APP00329,Europe,Spain,Business,Paris,22-01-2023,31-01-2023,9,31,Diploma,N,Y,Denied
+APP00330,Asia,Pakistan,Student,Hyderabad,20-11-2023,13-02-2024,85,20,Bachelor's,Y,Y,Approved
+APP00331,Oceania,New Zealand,Family,Mumbai,10-06-2023,04-09-2023,86,31,Master's,N,N,Approved
+APP00332,North America,Mexico,Tourist,Hyderabad,26-09-2022,20-10-2022,24,28,Bachelor's,Y,Y,Approved
+APP00333,Europe,UK,Family,Tokyo,12-04-2020,19-07-2020,98,29,Bachelor's,Y,N,Approved
+APP00334,Oceania,Australia,Tourist,London,27-08-2020,14-09-2020,18,29,Master's,N,Y,Denied
+APP00335,Europe,UK,Work,Bangalore,19-03-2021,08-07-2021,111,28,Master's,N,Y,Withdrawn
+APP00336,Europe,Spain,Work,Dubai,05-11-2019,22-01-2020,78,37,Master's,Y,N,Approved
+APP00337,Europe,Netherlands,Business,Toronto,13-01-2024,01-02-2024,19,42,High School,Y,Y,Approved
+APP00338,South America,Chile,Research,Tokyo,16-08-2022,03-12-2022,109,18,Diploma,Y,N,Approved
+APP00339,South America,Argentina,Work,Toronto,07-10-2019,16-01-2020,101,41,Master's,Y,Y,Approved
+APP00340,Africa,Egypt,Research,Bangalore,30-01-2022,10-05-2022,100,38,High School,N,Y,Approved
+APP00341,Oceania,Australia,Tourist,Sydney,31-10-2019,06-12-2019,36,33,Master's,Y,Y,Approved
+APP00342,North America,Canada,Business,Delhi,22-08-2019,03-09-2019,12,18,Master's,Y,N,Approved
+APP00343,North America,Canada,Student,Tokyo,05-01-2020,13-04-2020,99,39,Bachelor's,N,Y,Approved
+APP00344,Oceania,New Zealand,Business,Berlin,18-06-2019,30-06-2019,12,24,Bachelor's,Y,N,Approved
+APP00345,Africa,Ghana,Research,Hyderabad,09-08-2022,17-11-2022,100,41,Bachelor's,Y,Y,Approved
+APP00346,Oceania,New Zealand,Family,Chennai,11-09-2019,22-11-2019,72,29,High School,Y,N,Approved
+APP00347,Africa,Nigeria,Tourist,Paris,12-12-2019,22-12-2019,10,29,Bachelor's,Y,Y,Approved
+APP00348,Oceania,Australia,Student,Hyderabad,29-11-2023,13-02-2024,76,24,Master's,Y,Y,Approved
+APP00349,Africa,Ghana,Family,Berlin,12-10-2020,29-12-2020,78,34,High School,Y,Y,Approved
+APP00350,North America,Canada,Tourist,New York,02-08-2023,08-09-2023,37,30,Bachelor's,N,N,Approved
+APP00351,North America,Mexico,Family,Delhi,02-10-2022,12-12-2022,71,19,Bachelor's,Y,N,Approved
+APP00352,Asia,Japan,Student,Sydney,03-05-2023,28-06-2023,56,36,Master's,N,N,Approved
+APP00353,North America,Canada,Research,Tokyo,07-09-2020,15-12-2020,99,31,Diploma,Y,N,Approved
+APP00354,North America,USA,Family,Tokyo,02-08-2020,22-10-2020,81,23,Bachelor's,Y,Y,Approved
+APP00355,North America,Canada,Research,Paris,25-05-2023,05-09-2023,103,30,High School,Y,N,Approved
+APP00356,Europe,Spain,Research,Mumbai,22-06-2022,16-09-2022,86,39,Bachelor's,Y,N,Denied
+APP00357,Oceania,New Zealand,Research,Dubai,07-09-2022,27-12-2022,111,32,Master's,Y,N,Approved
+APP00358,Europe,Netherlands,Research,Paris,26-11-2024,20-02-2025,86,30,High School,Y,Y,Approved
+APP00359,Asia,UAE,Research,New York,13-09-2024,15-12-2024,93,30,High School,Y,Y,Approved
+APP00360,North America,USA,Tourist,Bangalore,08-01-2021,20-02-2021,43,32,Bachelor's,Y,N,Approved
+APP00361,Europe,France,Business,Hyderabad,16-07-2021,12-08-2021,27,25,Bachelor's,N,N,Denied
+APP00362,Europe,Germany,Student,Bangalore,19-02-2020,02-05-2020,73,35,Bachelor's,Y,Y,Approved
+APP00363,Oceania,Australia,Research,London,20-06-2020,15-10-2020,117,37,Bachelor's,Y,Y,Approved
+APP00364,Oceania,New Zealand,Work,Chennai,10-01-2021,16-04-2021,96,35,Diploma,Y,N,Approved
+APP00365,South America,Chile,Work,Paris,28-11-2023,19-02-2024,83,28,Bachelor's,Y,N,Approved
+APP00366,Asia,Pakistan,Tourist,Tokyo,30-08-2021,04-09-2021,5,25,PhD,Y,N,Approved
+APP00367,Africa,Ghana,Tourist,Dubai,13-01-2024,03-02-2024,21,29,Bachelor's,N,Y,Approved
+APP00368,Europe,Spain,Work,Bangalore,05-04-2024,02-07-2024,88,27,Diploma,Y,N,Approved
+APP00369,Europe,France,Research,Berlin,10-12-2023,25-03-2024,106,27,High School,N,Y,Denied
+APP00370,Africa,South Africa,Business,Sydney,30-11-2024,29-12-2024,29,32,PhD,Y,N,Approved
+APP00371,Africa,Kenya,Work,Dubai,20-07-2020,29-09-2020,71,22,Bachelor's,Y,Y,Approved
+APP00372,North America,USA,Research,Toronto,01-03-2023,21-06-2023,112,33,Bachelor's,Y,Y,Approved
+APP00373,Oceania,Australia,Research,Sydney,25-05-2020,04-09-2020,102,26,Diploma,N,Y,Approved
+APP00374,North America,USA,Work,Bangalore,15-01-2024,16-04-2024,92,31,Bachelor's,Y,Y,Approved
+APP00375,Oceania,Australia,Business,Mumbai,28-06-2021,31-07-2021,33,43,Bachelor's,Y,Y,Approved
+APP00376,Africa,South Africa,Student,New York,07-08-2019,06-12-2019,121,19,Diploma,N,N,Denied
+APP00377,Africa,Ghana,Tourist,Hyderabad,01-05-2023,03-06-2023,33,30,High School,N,Y,Approved
+APP00378,Asia,Japan,Work,Delhi,29-07-2022,03-11-2022,97,27,Master's,Y,Y,Withdrawn
+APP00379,Asia,UAE,Research,London,21-08-2020,12-12-2020,113,29,Bachelor's,Y,Y,Approved
+APP00380,Europe,UK,Tourist,Toronto,22-07-2020,08-08-2020,17,39,Bachelor's,Y,Y,Denied
+APP00381,South America,Argentina,Business,Berlin,22-01-2019,05-02-2019,14,31,Master's,N,Y,Withdrawn
+APP00382,Asia,India,Tourist,Hyderabad,04-09-2020,26-09-2020,22,28,Master's,Y,N,Denied
+APP00383,Oceania,New Zealand,Student,Dubai,26-03-2022,16-06-2022,82,18,Bachelor's,N,Y,Approved
+APP00384,Europe,France,Student,Delhi,03-09-2021,15-12-2021,103,36,Bachelor's,Y,Y,Approved
+APP00385,Africa,Ghana,Business,Mumbai,30-03-2020,06-04-2020,7,36,Diploma,N,Y,Withdrawn
+APP00386,Africa,Ghana,Family,Delhi,11-10-2024,10-01-2025,91,33,Diploma,Y,N,Denied
+APP00387,Oceania,Australia,Research,Chennai,08-04-2022,14-07-2022,97,33,Master's,N,N,Approved
+APP00388,Africa,Nigeria,Family,London,12-09-2021,05-12-2021,84,37,High School,Y,Y,Approved
+APP00389,Oceania,New Zealand,Work,Tokyo,17-12-2019,07-03-2020,81,28,Bachelor's,Y,N,Denied
+APP00390,Oceania,New Zealand,Student,Sydney,09-09-2024,15-11-2024,67,31,High School,Y,N,Approved
+APP00391,Oceania,Australia,Business,Toronto,28-06-2019,01-07-2019,3,24,Diploma,Y,N,Denied
+APP00392,South America,Argentina,Tourist,Bangalore,08-03-2019,13-04-2019,36,28,Bachelor's,Y,Y,Approved
+APP00393,North America,USA,Tourist,Hyderabad,29-02-2020,25-03-2020,25,31,Bachelor's,Y,Y,Denied
+APP00394,Oceania,New Zealand,Work,Delhi,14-12-2022,05-02-2023,53,31,Bachelor's,Y,Y,Approved
+APP00395,Oceania,New Zealand,Research,Chennai,18-03-2024,05-07-2024,109,23,Master's,N,Y,Approved
+APP00396,South America,Argentina,Research,Chennai,06-07-2020,18-10-2020,104,26,Diploma,Y,Y,Approved
+APP00397,Asia,UAE,Business,Delhi,16-04-2022,24-04-2022,8,31,Master's,Y,Y,Approved
+APP00398,Europe,UK,Work,Delhi,16-07-2022,15-10-2022,91,31,Master's,Y,Y,Approved
+APP00399,North America,Mexico,Business,Sydney,23-04-2024,30-04-2024,7,27,Bachelor's,Y,N,Approved
+APP00400,North America,USA,Research,Hyderabad,17-03-2022,03-07-2022,108,31,Bachelor's,N,Y,Withdrawn
+APP00401,North America,USA,Research,London,24-01-2022,12-05-2022,108,25,Bachelor's,Y,N,Approved
+APP00402,Asia,Japan,Business,New York,07-12-2023,02-01-2024,26,38,PhD,N,N,Approved
+APP00403,Africa,South Africa,Work,Toronto,30-07-2024,20-10-2024,82,27,Master's,Y,Y,Approved
+APP00404,North America,Mexico,Tourist,Dubai,05-12-2019,01-01-2020,27,34,Bachelor's,Y,Y,Approved
+APP00405,South America,Argentina,Student,New York,09-01-2021,18-03-2021,68,28,Master's,Y,N,Denied
+APP00406,Oceania,New Zealand,Tourist,Mumbai,24-11-2019,28-12-2019,34,22,Bachelor's,N,Y,Approved
+APP00407,North America,Mexico,Tourist,Bangalore,01-01-2024,09-01-2024,8,35,High School,Y,N,Approved
+APP00408,Oceania,New Zealand,Work,Paris,24-12-2023,08-03-2024,75,41,Master's,Y,N,Approved
+APP00409,North America,Canada,Student,Paris,15-12-2022,26-02-2023,73,28,High School,Y,Y,Denied
+APP00410,Oceania,New Zealand,Tourist,Tokyo,23-08-2019,09-09-2019,17,23,Bachelor's,Y,Y,Approved
+APP00411,Asia,UAE,Research,New York,28-01-2023,07-05-2023,99,28,PhD,Y,N,Approved
+APP00412,Oceania,Australia,Student,Chennai,30-11-2023,26-02-2024,88,35,Bachelor's,N,Y,Approved
+APP00413,Asia,China,Student,Hyderabad,09-02-2023,08-05-2023,88,34,High School,Y,Y,Approved
+APP00414,North America,Canada,Family,Delhi,20-09-2020,15-12-2020,86,40,Bachelor's,Y,Y,Approved
+APP00415,South America,Argentina,Tourist,London,24-12-2023,21-01-2024,28,30,Master's,Y,N,Approved
+APP00416,Asia,Bangladesh,Work,Sydney,12-02-2023,20-05-2023,97,40,Bachelor's,Y,Y,Approved
+APP00417,Africa,South Africa,Research,Bangalore,19-10-2021,25-01-2022,98,18,Master's,Y,Y,Withdrawn
+APP00418,Asia,India,Research,Chennai,06-08-2024,19-11-2024,105,31,PhD,Y,Y,Approved
+APP00419,Oceania,New Zealand,Family,Mumbai,08-12-2021,21-02-2022,75,27,Bachelor's,N,Y,Approved
+APP00420,North America,Mexico,Business,Hyderabad,15-03-2022,04-04-2022,20,37,Bachelor's,Y,Y,Approved
+APP00421,South America,Argentina,Work,Mumbai,09-07-2020,04-10-2020,87,33,Bachelor's,N,N,Approved
+APP00422,Asia,Pakistan,Work,Paris,29-12-2023,17-03-2024,79,44,High School,N,Y,Approved
+APP00423,Asia,UAE,Tourist,Tokyo,24-11-2022,14-01-2023,51,30,High School,Y,N,Approved
+APP00424,South America,Brazil,Family,Sydney,04-04-2022,27-05-2022,53,40,High School,Y,Y,Approved
+APP00425,North America,USA,Research,Paris,14-12-2020,23-03-2021,99,34,PhD,Y,N,Withdrawn
+APP00426,North America,Mexico,Work,Mumbai,03-04-2021,12-06-2021,70,33,Bachelor's,Y,Y,Approved
+APP00427,Europe,Germany,Business,Delhi,18-01-2023,07-02-2023,20,30,Master's,Y,Y,Approved
+APP00428,Oceania,New Zealand,Business,Dubai,15-06-2020,08-07-2020,23,20,Bachelor's,Y,Y,Approved
+APP00429,Oceania,Australia,Student,Bangalore,19-06-2023,18-09-2023,91,29,High School,Y,N,Approved
+APP00430,South America,Chile,Business,Sydney,10-08-2023,13-08-2023,3,34,Bachelor's,N,N,Approved
+APP00431,Africa,Ghana,Student,Chennai,22-07-2022,14-10-2022,84,29,Bachelor's,Y,Y,Approved
+APP00432,South America,Brazil,Business,Toronto,20-10-2024,12-11-2024,23,28,PhD,Y,N,Approved
+APP00433,North America,USA,Family,Tokyo,15-01-2021,27-04-2021,102,25,Master's,N,Y,Approved
+APP00434,Europe,Italy,Family,Delhi,23-05-2020,02-08-2020,71,35,Bachelor's,Y,N,Approved
+APP00435,Oceania,Australia,Tourist,Chennai,25-10-2020,19-11-2020,25,23,Diploma,Y,Y,Approved
+APP00436,North America,Mexico,Work,London,26-10-2024,19-01-2025,85,34,PhD,Y,Y,Approved
+APP00437,North America,USA,Tourist,Hyderabad,29-01-2022,21-03-2022,51,30,Diploma,Y,N,Denied
+APP00438,Europe,Netherlands,Tourist,Berlin,25-12-2024,18-01-2025,24,36,Master's,Y,Y,Approved
+APP00439,Asia,Bangladesh,Research,Chennai,23-09-2020,16-12-2020,84,32,Bachelor's,N,Y,Approved
+APP00440,Europe,Netherlands,Family,Paris,14-10-2022,01-12-2022,48,31,Master's,N,Y,Approved
+APP00441,Oceania,Australia,Student,Mumbai,06-07-2019,17-10-2019,103,38,Diploma,N,Y,Approved
+APP00442,South America,Chile,Tourist,Tokyo,13-05-2021,26-05-2021,13,29,High School,N,Y,Approved
+APP00443,Oceania,New Zealand,Family,Tokyo,05-05-2019,15-07-2019,71,30,PhD,Y,Y,Approved
+APP00444,Africa,Ghana,Tourist,Tokyo,22-05-2022,19-06-2022,28,21,Master's,N,Y,Approved
+APP00445,Africa,Kenya,Research,New York,03-05-2022,25-08-2022,114,23,Master's,Y,Y,Denied
+APP00446,Africa,Nigeria,Research,Delhi,09-10-2020,09-01-2021,92,39,Bachelor's,Y,Y,Approved
+APP00447,Africa,Egypt,Business,Toronto,15-04-2021,20-04-2021,5,33,Master's,Y,N,Approved
+APP00448,North America,Mexico,Work,London,31-07-2022,05-11-2022,97,19,Diploma,N,N,Approved
+APP00449,South America,Argentina,Business,Chennai,26-02-2023,05-04-2023,38,51,Bachelor's,N,N,Approved
+APP00450,Oceania,Australia,Tourist,Hyderabad,25-03-2024,22-04-2024,28,42,Master's,Y,N,Denied
+APP00451,Asia,Japan,Business,Hyderabad,31-07-2020,25-08-2020,25,25,Diploma,Y,Y,Withdrawn
+APP00452,Asia,India,Tourist,New York,09-09-2023,09-10-2023,30,35,Master's,Y,N,Approved
+APP00453,Europe,Germany,Tourist,Berlin,04-07-2022,10-07-2022,6,27,Master's,N,Y,Approved
+APP00454,Europe,Germany,Business,Sydney,27-03-2024,30-03-2024,3,27,Master's,N,Y,Withdrawn
+APP00455,Africa,South Africa,Business,Delhi,04-01-2020,19-01-2020,15,25,Master's,N,Y,Denied
+APP00456,Africa,Ghana,Business,Hyderabad,31-05-2021,03-06-2021,3,37,High School,N,Y,Approved
+APP00457,Oceania,New Zealand,Student,Delhi,26-02-2022,20-05-2022,83,27,Bachelor's,N,Y,Approved
+APP00458,Africa,Ghana,Research,Tokyo,11-04-2024,03-08-2024,114,31,Master's,Y,N,Approved
+APP00459,North America,Mexico,Student,Mumbai,01-11-2023,24-12-2023,53,32,Bachelor's,Y,N,Approved
+APP00460,Europe,France,Research,London,10-07-2023,10-10-2023,92,40,High School,N,Y,Approved
+APP00461,North America,USA,Business,Delhi,08-03-2021,14-03-2021,6,38,High School,Y,N,Approved
+APP00462,North America,Mexico,Tourist,Mumbai,02-05-2023,04-06-2023,33,40,Diploma,Y,N,Approved
+APP00463,Oceania,New Zealand,Family,Bangalore,01-05-2020,08-07-2020,68,23,Bachelor's,N,Y,Approved
+APP00464,Europe,UK,Business,London,20-10-2022,06-11-2022,17,23,Master's,N,Y,Approved
+APP00465,Oceania,New Zealand,Work,Hyderabad,16-09-2024,27-11-2024,72,25,Diploma,Y,Y,Approved
+APP00466,Africa,Ghana,Student,Delhi,09-06-2019,09-09-2019,92,30,Bachelor's,Y,Y,Withdrawn
+APP00467,Europe,Netherlands,Tourist,Dubai,24-04-2024,14-05-2024,20,28,Bachelor's,Y,N,Approved
+APP00468,Oceania,New Zealand,Work,Berlin,12-10-2024,19-01-2025,99,21,Master's,Y,Y,Approved
+APP00469,Europe,France,Family,London,27-10-2020,27-01-2021,92,31,Master's,Y,Y,Denied
+APP00470,Africa,Ghana,Research,Bangalore,09-10-2022,23-01-2023,106,32,Diploma,Y,N,Approved
+APP00471,Oceania,New Zealand,Research,Berlin,12-05-2022,17-08-2022,97,29,Bachelor's,Y,Y,Withdrawn
+APP00472,Africa,Nigeria,Tourist,London,24-03-2020,03-05-2020,40,27,Diploma,Y,N,Approved
+APP00473,Africa,Ghana,Tourist,Dubai,20-04-2019,16-05-2019,26,28,High School,N,N,Approved
+APP00474,Oceania,New Zealand,Tourist,Tokyo,21-07-2021,04-08-2021,14,18,Master's,Y,Y,Approved
+APP00475,South America,Brazil,Family,Toronto,29-11-2020,01-02-2021,64,34,Master's,Y,Y,Denied
+APP00476,Oceania,New Zealand,Work,Tokyo,19-09-2021,08-12-2021,80,25,Diploma,Y,Y,Approved
+APP00477,Asia,Bangladesh,Research,Mumbai,20-02-2021,08-06-2021,108,40,Bachelor's,Y,N,Denied
+APP00478,Asia,Pakistan,Tourist,New York,12-09-2020,07-10-2020,25,33,Master's,Y,Y,Approved
+APP00479,Africa,Kenya,Business,Sydney,15-04-2024,10-05-2024,25,36,Bachelor's,Y,Y,Denied
+APP00480,South America,Chile,Student,Paris,19-07-2020,29-10-2020,102,46,Diploma,Y,N,Approved
+APP00481,Oceania,Australia,Family,London,13-05-2024,03-08-2024,82,40,Bachelor's,Y,N,Approved
+APP00482,Oceania,New Zealand,Tourist,Chennai,26-02-2024,09-04-2024,43,24,Master's,Y,N,Approved
+APP00483,Oceania,New Zealand,Family,London,18-12-2021,03-03-2022,75,29,Bachelor's,Y,Y,Approved
+APP00484,Oceania,New Zealand,Work,Hyderabad,16-02-2022,21-05-2022,94,40,Bachelor's,Y,Y,Approved
+APP00485,Oceania,New Zealand,Work,Bangalore,29-03-2022,16-07-2022,109,32,Master's,Y,Y,Approved
+APP00486,South America,Brazil,Research,Paris,25-06-2024,19-09-2024,86,24,Bachelor's,Y,Y,Approved
+APP00487,North America,Canada,Tourist,Sydney,25-01-2022,03-03-2022,37,33,Bachelor's,N,N,Approved
+APP00488,North America,USA,Family,Tokyo,05-04-2023,30-06-2023,86,18,Master's,N,Y,Approved
+APP00489,Africa,South Africa,Work,Bangalore,22-06-2019,22-09-2019,92,50,Diploma,N,N,Denied
+APP00490,North America,Mexico,Student,London,17-12-2023,06-03-2024,80,34,Bachelor's,Y,Y,Approved
+APP00491,South America,Argentina,Research,Toronto,26-05-2021,09-09-2021,106,23,Diploma,Y,Y,Approved
+APP00492,Europe,Spain,Tourist,Sydney,17-01-2022,24-02-2022,38,36,Bachelor's,Y,Y,Approved
+APP00493,Europe,UK,Family,Paris,07-09-2021,22-11-2021,76,21,High School,Y,Y,Approved
+APP00494,Europe,UK,Research,Sydney,13-07-2021,09-10-2021,88,26,Diploma,N,N,Approved
+APP00495,South America,Brazil,Student,Mumbai,20-08-2023,29-10-2023,70,18,Bachelor's,Y,N,Approved
+APP00496,North America,Mexico,Business,Mumbai,17-07-2020,20-07-2020,3,30,Master's,Y,Y,Approved
+APP00497,Asia,Bangladesh,Work,New York,02-05-2024,19-07-2024,78,31,Bachelor's,Y,N,Approved
+APP00498,Africa,Kenya,Tourist,London,15-03-2022,21-04-2022,37,28,Diploma,Y,Y,Approved
+APP00499,South America,Brazil,Student,Tokyo,09-08-2021,08-12-2021,121,22,Bachelor's,Y,Y,Approved
+APP00500,Oceania,Australia,Work,New York,21-12-2020,29-03-2021,98,42,Master's,N,N,Approved
+APP00501,Asia,Pakistan,Business,Chennai,31-03-2022,28-04-2022,28,25,Bachelor's,Y,N,Denied
+APP00502,Asia,India,Tourist,Berlin,15-03-2020,06-04-2020,22,29,Bachelor's,N,N,Approved
+APP00503,North America,Canada,Business,Tokyo,17-11-2024,17-12-2024,30,18,PhD,Y,N,Approved
+APP00504,Africa,Kenya,Family,Toronto,22-01-2022,26-04-2022,94,26,Bachelor's,N,Y,Approved
+APP00505,Europe,UK,Tourist,Chennai,23-02-2024,11-03-2024,17,21,Bachelor's,Y,Y,Approved
+APP00506,South America,Argentina,Research,Chennai,27-02-2019,17-06-2019,110,38,Master's,Y,Y,Approved
+APP00507,South America,Argentina,Tourist,Berlin,02-03-2021,26-03-2021,24,29,Master's,N,Y,Approved
+APP00508,Europe,Spain,Research,New York,18-10-2023,31-01-2024,105,40,Master's,N,N,Approved
+APP00509,Oceania,New Zealand,Student,New York,26-01-2020,14-04-2020,79,23,Bachelor's,N,Y,Approved
+APP00510,Europe,Germany,Business,London,13-10-2021,31-10-2021,18,33,Master's,N,Y,Approved
+APP00511,Asia,Japan,Business,Hyderabad,04-01-2024,21-01-2024,17,36,Bachelor's,Y,Y,Approved
+APP00512,North America,Canada,Tourist,Berlin,16-02-2019,02-03-2019,14,25,Bachelor's,Y,Y,Approved
+APP00513,North America,Mexico,Tourist,Paris,25-08-2021,14-09-2021,20,36,Diploma,Y,N,Approved
+APP00514,Asia,UAE,Student,Toronto,10-06-2022,14-09-2022,96,37,Master's,Y,N,Approved
+APP00515,Europe,Italy,Research,Sydney,27-06-2022,07-10-2022,102,33,Bachelor's,Y,Y,Approved
+APP00516,South America,Brazil,Research,Bangalore,14-02-2023,30-05-2023,105,20,Diploma,Y,N,Approved
+APP00517,Oceania,Australia,Work,Chennai,12-05-2024,06-08-2024,86,34,High School,Y,Y,Approved
+APP00518,Europe,Italy,Research,Berlin,11-03-2023,23-06-2023,104,19,High School,Y,Y,Denied
+APP00519,Africa,Ghana,Business,Dubai,13-06-2021,24-06-2021,11,35,Master's,N,N,Denied
+APP00520,Europe,Netherlands,Family,Dubai,02-12-2019,25-02-2020,85,19,High School,Y,N,Approved
+APP00521,Oceania,New Zealand,Family,Paris,21-01-2023,20-04-2023,89,34,Master's,N,Y,Approved
+APP00522,Asia,Bangladesh,Student,Delhi,01-09-2024,17-11-2024,77,28,High School,Y,N,Approved
+APP00523,Europe,Spain,Family,Chennai,04-11-2020,04-02-2021,92,20,Diploma,Y,N,Approved
+APP00524,North America,Mexico,Business,Mumbai,21-04-2021,10-05-2021,19,37,Bachelor's,Y,N,Approved
+APP00525,South America,Chile,Business,Mumbai,21-09-2024,07-10-2024,16,30,Master's,Y,N,Approved
+APP00526,Africa,Nigeria,Business,Chennai,03-10-2024,23-10-2024,20,20,Master's,N,Y,Approved
+APP00527,Africa,Egypt,Family,Delhi,08-03-2024,03-06-2024,87,36,Bachelor's,Y,Y,Approved
+APP00528,South America,Argentina,Research,Delhi,10-06-2023,05-09-2023,87,40,Master's,Y,Y,Approved
+APP00529,North America,USA,Research,Hyderabad,27-10-2019,21-02-2020,117,39,Diploma,Y,N,Approved
+APP00530,Asia,Pakistan,Tourist,Paris,19-09-2019,15-10-2019,26,23,Bachelor's,Y,N,Approved
+APP00531,Oceania,Australia,Student,Toronto,10-05-2019,16-08-2019,98,35,Master's,N,N,Approved
+APP00532,North America,Canada,Work,Dubai,08-07-2020,10-09-2020,64,27,Diploma,Y,Y,Denied
+APP00533,South America,Chile,Research,New York,14-03-2023,13-07-2023,121,41,Bachelor's,Y,Y,Approved
+APP00534,Africa,Egypt,Business,New York,25-11-2019,12-12-2019,17,24,Master's,N,N,Approved
+APP00535,South America,Chile,Family,Chennai,25-11-2022,20-02-2023,87,24,Diploma,N,N,Approved
+APP00536,Asia,China,Family,New York,06-12-2024,04-03-2025,88,35,PhD,Y,N,Approved
+APP00537,Europe,Netherlands,Work,Delhi,04-04-2019,26-06-2019,83,28,PhD,N,N,Denied
+APP00538,North America,Canada,Research,Paris,04-10-2023,14-01-2024,102,24,High School,Y,Y,Approved
+APP00539,Oceania,New Zealand,Work,Hyderabad,01-03-2024,03-06-2024,94,28,Diploma,Y,N,Approved
+APP00540,North America,USA,Tourist,Hyderabad,07-04-2020,08-05-2020,31,33,Diploma,N,Y,Approved
+APP00541,Asia,UAE,Business,Berlin,06-03-2019,15-03-2019,9,27,Diploma,Y,N,Approved
+APP00542,Europe,Germany,Student,Mumbai,18-05-2019,08-08-2019,82,26,High School,Y,N,Approved
+APP00543,Africa,Ghana,Research,Paris,19-07-2019,26-10-2019,99,24,Bachelor's,Y,N,Approved
+APP00544,Europe,Netherlands,Student,New York,03-12-2023,18-02-2024,77,48,High School,Y,Y,Approved
+APP00545,Europe,Spain,Work,Dubai,20-08-2019,17-11-2019,89,24,Bachelor's,N,Y,Approved
+APP00546,Europe,Spain,Tourist,Hyderabad,30-07-2022,08-09-2022,40,27,Bachelor's,Y,N,Denied
+APP00547,Oceania,New Zealand,Work,Bangalore,09-08-2020,11-11-2020,94,18,Master's,N,N,Approved
+APP00548,South America,Chile,Work,New York,15-05-2022,12-08-2022,89,20,Master's,Y,Y,Denied
+APP00549,North America,USA,Family,Berlin,18-12-2020,24-03-2021,96,27,Bachelor's,Y,Y,Approved
+APP00550,South America,Chile,Business,Sydney,23-07-2024,04-08-2024,12,27,PhD,Y,Y,Approved
+APP00551,Asia,Japan,Research,Tokyo,11-04-2023,15-08-2023,126,28,Diploma,Y,Y,Approved
+APP00552,Oceania,New Zealand,Research,New York,31-07-2023,10-11-2023,102,22,Diploma,Y,Y,Approved
+APP00553,Europe,France,Business,Chennai,23-04-2024,01-05-2024,8,35,Master's,N,Y,Approved
+APP00554,Europe,Germany,Tourist,Paris,14-08-2020,17-09-2020,34,26,Bachelor's,Y,Y,Denied
+APP00555,Africa,Nigeria,Family,New York,03-09-2023,15-11-2023,73,33,Bachelor's,Y,Y,Denied
+APP00556,Oceania,Australia,Business,Hyderabad,10-11-2021,19-11-2021,9,23,High School,N,N,Approved
+APP00557,Europe,France,Research,Mumbai,17-01-2024,18-04-2024,92,33,Bachelor's,Y,Y,Approved
+APP00558,North America,USA,Family,Paris,19-02-2021,03-05-2021,73,25,Diploma,N,Y,Approved
+APP00559,Asia,Japan,Business,Tokyo,11-06-2019,18-06-2019,7,33,Bachelor's,Y,Y,Withdrawn
+APP00560,Asia,China,Family,Paris,07-06-2021,24-08-2021,78,39,Master's,Y,Y,Approved
+APP00561,Africa,Kenya,Tourist,Bangalore,04-03-2019,01-04-2019,28,18,Bachelor's,N,Y,Approved
+APP00562,Europe,Germany,Research,Mumbai,15-05-2024,28-07-2024,74,42,Master's,Y,Y,Approved
+APP00563,Europe,Netherlands,Family,Paris,17-04-2021,29-06-2021,73,32,Bachelor's,Y,Y,Approved
+APP00564,Africa,Kenya,Family,London,05-03-2022,18-05-2022,74,38,Master's,Y,N,Approved
+APP00565,Africa,Egypt,Family,Tokyo,11-01-2023,09-04-2023,88,42,Master's,Y,Y,Approved
+APP00566,North America,Canada,Tourist,Sydney,29-07-2024,24-08-2024,26,39,Master's,Y,Y,Approved
+APP00567,Africa,Nigeria,Research,Toronto,04-08-2022,13-11-2022,101,31,Master's,Y,N,Approved
+APP00568,Europe,France,Tourist,New York,07-07-2019,06-08-2019,30,26,Master's,N,N,Approved
+APP00569,Oceania,Australia,Research,Chennai,08-03-2019,01-07-2019,115,40,PhD,Y,Y,Approved
+APP00570,North America,Mexico,Family,Berlin,07-09-2023,06-11-2023,60,27,Bachelor's,N,N,Approved
+APP00571,North America,USA,Work,London,31-07-2021,10-11-2021,102,28,High School,Y,Y,Approved
+APP00572,Africa,Ghana,Work,Toronto,14-10-2022,13-01-2023,91,18,Diploma,Y,N,Approved
+APP00573,North America,Canada,Research,Tokyo,02-07-2024,20-10-2024,110,40,Master's,N,N,Approved
+APP00574,Africa,Kenya,Research,Dubai,13-12-2022,11-03-2023,88,42,Bachelor's,N,N,Denied
+APP00575,Europe,Germany,Research,Sydney,23-06-2024,14-10-2024,113,22,Diploma,Y,Y,Approved
+APP00576,Europe,Spain,Research,Delhi,16-11-2024,10-03-2025,114,28,High School,N,Y,Approved
+APP00577,Asia,India,Research,Delhi,27-01-2019,19-04-2019,82,29,Bachelor's,Y,Y,Approved
+APP00578,Africa,Kenya,Research,Hyderabad,06-10-2019,24-01-2020,110,30,Bachelor's,N,N,Denied
+APP00579,South America,Brazil,Student,Hyderabad,02-09-2024,04-12-2024,93,38,Bachelor's,N,Y,Approved
+APP00580,Africa,South Africa,Student,Berlin,02-06-2024,29-08-2024,88,30,Bachelor's,Y,Y,Withdrawn
+APP00581,South America,Argentina,Student,Delhi,19-12-2024,22-03-2025,93,34,High School,Y,Y,Approved
+APP00582,Oceania,New Zealand,Student,Delhi,08-12-2024,24-02-2025,78,21,Diploma,N,N,Withdrawn
+APP00583,South America,Argentina,Family,Bangalore,12-03-2019,08-05-2019,57,23,High School,Y,N,Approved
+APP00584,Oceania,New Zealand,Work,Mumbai,30-01-2020,15-05-2020,106,20,Diploma,Y,Y,Denied
+APP00585,Oceania,Australia,Work,Hyderabad,26-11-2024,27-02-2025,93,39,Bachelor's,Y,N,Approved
+APP00586,North America,Canada,Tourist,Dubai,14-06-2023,20-06-2023,6,18,Master's,Y,Y,Denied
+APP00587,Asia,Japan,Business,Toronto,23-09-2021,03-10-2021,10,38,Bachelor's,Y,N,Approved
+APP00588,South America,Brazil,Tourist,Tokyo,27-11-2019,26-12-2019,29,33,Bachelor's,Y,Y,Approved
+APP00589,South America,Chile,Student,Mumbai,19-07-2023,22-10-2023,95,23,PhD,Y,N,Approved
+APP00590,Africa,Egypt,Family,Toronto,18-08-2019,25-10-2019,68,28,Bachelor's,N,N,Approved
+APP00591,South America,Brazil,Research,Chennai,05-12-2019,22-03-2020,108,18,Bachelor's,N,N,Approved
+APP00592,Africa,Egypt,Research,Dubai,18-09-2022,10-12-2022,83,25,High School,Y,Y,Approved
+APP00593,Oceania,Australia,Family,Delhi,30-07-2021,16-10-2021,78,31,Bachelor's,Y,Y,Denied
+APP00594,Europe,Netherlands,Family,Toronto,15-01-2022,03-04-2022,78,26,Diploma,N,Y,Approved
+APP00595,Asia,India,Research,Bangalore,15-05-2019,18-09-2019,126,30,PhD,Y,N,Denied
+APP00596,Europe,France,Student,Hyderabad,13-08-2020,13-11-2020,92,34,Bachelor's,Y,N,Approved
+APP00597,South America,Argentina,Student,Bangalore,27-10-2020,01-01-2021,66,42,Master's,N,Y,Denied
+APP00598,Oceania,Australia,Family,New York,20-09-2022,28-12-2022,99,30,Bachelor's,Y,N,Approved
+APP00599,Africa,Kenya,Research,Paris,18-11-2019,25-02-2020,99,38,Bachelor's,Y,Y,Approved
+APP00600,Oceania,New Zealand,Student,Mumbai,26-11-2023,07-02-2024,73,32,Master's,Y,N,Denied
+APP00601,Europe,UK,Tourist,Berlin,13-06-2023,06-07-2023,23,34,Master's,Y,N,Approved
+APP00602,North America,USA,Research,Bangalore,20-01-2024,23-05-2024,124,37,Bachelor's,Y,N,Approved
+APP00603,Africa,Kenya,Tourist,Sydney,18-03-2023,29-03-2023,11,34,Bachelor's,Y,Y,Approved
+APP00604,Africa,Kenya,Research,Berlin,06-04-2023,11-07-2023,96,21,Master's,N,Y,Approved
+APP00605,Asia,Bangladesh,Tourist,Dubai,06-10-2021,07-11-2021,32,41,Diploma,Y,Y,Denied
+APP00606,South America,Brazil,Student,Bangalore,23-09-2020,27-12-2020,95,27,Master's,Y,Y,Approved
+APP00607,Africa,Kenya,Research,New York,21-07-2022,06-10-2022,77,39,High School,Y,Y,Approved
+APP00608,North America,USA,Student,Delhi,16-06-2022,17-09-2022,93,29,Bachelor's,Y,N,Approved
+APP00609,Africa,South Africa,Tourist,Mumbai,26-06-2020,27-07-2020,31,22,Diploma,N,Y,Approved
+APP00610,Asia,China,Business,Toronto,29-09-2024,17-10-2024,18,25,Master's,N,Y,Approved
+APP00611,Africa,Nigeria,Student,Mumbai,20-12-2022,03-03-2023,73,23,Bachelor's,N,Y,Approved
+APP00612,Oceania,Australia,Family,Berlin,21-08-2022,10-10-2022,50,27,Bachelor's,Y,Y,Approved
+APP00613,Africa,Nigeria,Tourist,New York,08-05-2023,12-06-2023,35,32,Master's,Y,Y,Approved
+APP00614,Asia,UAE,Family,Hyderabad,04-11-2024,09-01-2025,66,18,Bachelor's,Y,Y,Approved
+APP00615,Europe,Netherlands,Business,Chennai,22-07-2020,25-07-2020,3,34,Bachelor's,Y,N,Denied
+APP00616,North America,Canada,Tourist,Toronto,20-08-2020,01-09-2020,12,24,Bachelor's,Y,N,Denied
+APP00617,Asia,China,Business,Bangalore,21-09-2023,22-10-2023,31,33,Bachelor's,Y,N,Approved
+APP00618,North America,Canada,Student,London,27-10-2021,31-12-2021,65,36,High School,N,Y,Withdrawn
+APP00619,Europe,Netherlands,Research,Toronto,11-03-2021,29-06-2021,110,42,Master's,Y,Y,Approved
+APP00620,Africa,Nigeria,Work,Bangalore,28-01-2019,19-04-2019,81,18,Bachelor's,Y,N,Approved
+APP00621,Africa,South Africa,Family,New York,11-09-2022,02-12-2022,82,32,Master's,Y,N,Approved
+APP00622,Africa,South Africa,Business,Tokyo,11-07-2020,14-07-2020,3,25,Master's,Y,N,Approved
+APP00623,North America,Canada,Family,Paris,02-04-2021,06-07-2021,95,33,Bachelor's,Y,Y,Approved
+APP00624,Africa,South Africa,Work,New York,31-07-2022,06-11-2022,98,42,Bachelor's,Y,N,Approved
+APP00625,North America,Mexico,Research,Tokyo,04-07-2024,29-09-2024,87,35,Bachelor's,N,Y,Approved
+APP00626,Oceania,Australia,Tourist,New York,22-02-2022,22-03-2022,28,23,Master's,Y,N,Approved
+APP00627,Africa,South Africa,Student,Berlin,29-03-2021,21-06-2021,84,29,Bachelor's,Y,Y,Approved
+APP00628,Oceania,Australia,Research,Dubai,21-04-2019,22-07-2019,92,43,Bachelor's,Y,Y,Approved
+APP00629,South America,Argentina,Research,Hyderabad,01-12-2023,12-03-2024,102,36,Bachelor's,Y,Y,Approved
+APP00630,North America,Mexico,Student,Dubai,03-08-2023,11-10-2023,69,37,Master's,Y,Y,Approved
+APP00631,South America,Argentina,Work,Tokyo,25-05-2022,25-08-2022,92,18,Bachelor's,N,N,Approved
+APP00632,Europe,France,Research,Chennai,30-09-2023,12-01-2024,104,31,Diploma,Y,Y,Approved
+APP00633,Africa,Nigeria,Business,Berlin,16-05-2024,14-06-2024,29,40,Bachelor's,Y,N,Approved
+APP00634,Oceania,New Zealand,Family,Sydney,10-09-2023,06-12-2023,87,43,Bachelor's,Y,Y,Denied
+APP00635,Oceania,Australia,Tourist,Paris,15-12-2019,18-01-2020,34,34,High School,Y,N,Approved
+APP00636,Asia,China,Research,Tokyo,25-12-2022,29-03-2023,94,39,Diploma,Y,Y,Denied
+APP00637,Europe,Netherlands,Family,Delhi,25-06-2023,13-09-2023,80,33,Bachelor's,Y,Y,Approved
+APP00638,North America,Canada,Student,Delhi,08-02-2020,09-04-2020,61,40,Diploma,Y,Y,Approved
+APP00639,North America,USA,Family,Paris,25-10-2024,04-02-2025,102,18,Master's,N,Y,Denied
+APP00640,Oceania,Australia,Business,London,22-05-2023,27-05-2023,5,22,Bachelor's,Y,N,Approved
+APP00641,Africa,Ghana,Research,Sydney,09-09-2020,22-12-2020,104,23,High School,Y,N,Approved
+APP00642,North America,USA,Business,Mumbai,25-04-2022,21-05-2022,26,32,Bachelor's,N,N,Approved
+APP00643,Africa,Nigeria,Student,Paris,03-08-2020,26-11-2020,115,22,Master's,Y,Y,Withdrawn
+APP00644,North America,Canada,Tourist,Toronto,27-04-2021,28-05-2021,31,23,Bachelor's,Y,Y,Approved
+APP00645,Oceania,New Zealand,Tourist,Toronto,04-02-2020,26-02-2020,22,23,Bachelor's,Y,N,Denied
+APP00646,Africa,Egypt,Tourist,Mumbai,14-05-2022,02-06-2022,19,25,Bachelor's,Y,Y,Approved
+APP00647,Asia,UAE,Student,Delhi,06-11-2022,08-02-2023,94,34,Bachelor's,Y,Y,Approved
+APP00648,South America,Brazil,Research,Dubai,04-11-2020,18-02-2021,106,42,Bachelor's,N,Y,Approved
+APP00649,South America,Brazil,Family,Chennai,17-10-2020,23-12-2020,67,38,Bachelor's,Y,N,Approved
+APP00650,North America,Mexico,Business,Toronto,07-08-2021,30-08-2021,23,29,Diploma,Y,Y,Withdrawn
+APP00651,Africa,Kenya,Work,Tokyo,06-11-2023,27-01-2024,82,28,Bachelor's,Y,Y,Approved
+APP00652,Africa,Nigeria,Research,Berlin,19-03-2021,13-06-2021,86,18,High School,N,Y,Approved
+APP00653,Africa,Ghana,Business,New York,19-01-2019,25-01-2019,6,43,Bachelor's,Y,N,Denied
+APP00654,South America,Brazil,Work,Bangalore,14-09-2019,17-12-2019,94,30,Diploma,Y,N,Approved
+APP00655,Oceania,Australia,Family,Chennai,07-02-2023,12-04-2023,64,22,High School,Y,Y,Approved
+APP00656,North America,USA,Business,Mumbai,10-12-2021,24-01-2022,45,38,Master's,Y,Y,Denied
+APP00657,South America,Argentina,Family,Tokyo,07-07-2022,15-09-2022,70,30,Bachelor's,N,Y,Approved
+APP00658,Oceania,New Zealand,Family,New York,12-04-2020,30-06-2020,79,29,Bachelor's,Y,Y,Denied
+APP00659,North America,Canada,Business,Berlin,07-12-2020,02-01-2021,26,40,Master's,Y,Y,Approved
+APP00660,South America,Chile,Tourist,Berlin,14-12-2019,15-01-2020,32,33,Diploma,N,Y,Denied
+APP00661,South America,Brazil,Tourist,Mumbai,04-09-2021,29-09-2021,25,18,Bachelor's,N,N,Approved
+APP00662,North America,USA,Work,London,02-08-2020,27-10-2020,86,27,Bachelor's,Y,Y,Approved
+APP00663,Oceania,New Zealand,Business,Berlin,18-07-2020,12-08-2020,25,31,Bachelor's,Y,Y,Approved
+APP00664,Oceania,New Zealand,Business,Chennai,16-06-2024,06-07-2024,20,32,Bachelor's,Y,N,Approved
+APP00665,South America,Chile,Research,Tokyo,10-12-2020,25-03-2021,105,37,Master's,Y,Y,Withdrawn
+APP00666,Oceania,Australia,Business,Bangalore,28-07-2020,13-09-2020,47,36,Diploma,Y,Y,Approved
+APP00667,Europe,France,Business,Berlin,08-08-2019,24-08-2019,16,25,Master's,Y,Y,Approved
+APP00668,North America,USA,Business,Chennai,10-03-2021,28-03-2021,18,24,Diploma,Y,Y,Approved
+APP00669,Africa,Ghana,Family,Tokyo,20-07-2024,06-10-2024,78,26,Bachelor's,Y,Y,Denied
+APP00670,Africa,Egypt,Business,Paris,24-12-2023,08-01-2024,15,21,High School,Y,Y,Approved
+APP00671,Africa,Kenya,Student,Berlin,07-05-2019,22-07-2019,76,37,PhD,Y,Y,Approved
+APP00672,Europe,France,Student,Bangalore,09-07-2021,09-10-2021,92,20,Bachelor's,Y,N,Denied
+APP00673,Oceania,New Zealand,Work,Dubai,17-02-2024,21-05-2024,94,28,Diploma,Y,Y,Approved
+APP00674,Oceania,New Zealand,Family,Sydney,08-04-2020,18-06-2020,71,21,PhD,Y,N,Approved
+APP00675,Oceania,Australia,Tourist,Dubai,11-02-2023,19-03-2023,36,18,High School,Y,N,Approved
+APP00676,Oceania,Australia,Research,Toronto,14-06-2021,23-09-2021,101,18,Bachelor's,Y,Y,Approved
+APP00677,Africa,Nigeria,Research,Tokyo,10-10-2021,05-02-2022,118,34,Bachelor's,Y,Y,Approved
+APP00678,North America,USA,Business,Bangalore,28-11-2022,23-12-2022,25,26,Bachelor's,Y,Y,Denied
+APP00679,Asia,Pakistan,Student,Dubai,28-08-2021,23-11-2021,87,27,Bachelor's,N,N,Approved
+APP00680,Europe,Netherlands,Family,Paris,07-12-2022,25-02-2023,80,30,Diploma,Y,Y,Withdrawn
+APP00681,South America,Chile,Research,New York,10-11-2020,24-02-2021,106,26,Bachelor's,N,Y,Approved
+APP00682,Oceania,Australia,Work,Hyderabad,01-09-2019,10-12-2019,100,33,Master's,Y,N,Approved
+APP00683,Oceania,New Zealand,Family,Bangalore,20-11-2020,23-02-2021,95,18,Bachelor's,Y,N,Approved
+APP00684,North America,Mexico,Tourist,Bangalore,31-12-2021,15-01-2022,15,41,High School,Y,N,Denied
+APP00685,Oceania,Australia,Work,Dubai,13-08-2023,09-11-2023,88,21,Bachelor's,Y,Y,Approved
+APP00686,Asia,Japan,Research,Chennai,27-06-2020,22-10-2020,117,43,Diploma,Y,Y,Approved
+APP00687,Europe,Germany,Research,London,10-10-2021,26-01-2022,108,24,High School,Y,N,Approved
+APP00688,South America,Argentina,Business,Chennai,05-01-2022,30-01-2022,25,22,Bachelor's,N,N,Approved
+APP00689,South America,Argentina,Business,Toronto,06-11-2019,09-11-2019,3,29,Diploma,Y,Y,Approved
+APP00690,South America,Brazil,Business,Sydney,13-02-2022,16-02-2022,3,29,Master's,Y,Y,Denied
+APP00691,South America,Argentina,Business,Toronto,02-09-2022,15-09-2022,13,20,High School,Y,Y,Approved
+APP00692,Oceania,Australia,Research,Mumbai,21-02-2024,16-06-2024,116,30,Diploma,Y,N,Approved
+APP00693,South America,Chile,Research,London,17-09-2019,28-12-2019,102,36,Master's,Y,N,Denied
+APP00694,Oceania,New Zealand,Work,New York,17-05-2021,30-07-2021,74,32,Diploma,Y,Y,Approved
+APP00695,Africa,South Africa,Tourist,Bangalore,15-10-2022,29-11-2022,45,39,Bachelor's,Y,Y,Approved
+APP00696,Oceania,Australia,Family,Toronto,08-11-2022,01-02-2023,85,20,Diploma,Y,Y,Denied
+APP00697,South America,Brazil,Student,Mumbai,26-02-2024,23-05-2024,87,34,Master's,Y,Y,Denied
+APP00698,Asia,India,Work,Toronto,13-02-2024,24-06-2024,132,19,Bachelor's,Y,N,Withdrawn
+APP00699,Asia,Pakistan,Work,Paris,24-06-2020,10-09-2020,78,37,Master's,Y,Y,Denied
+APP00700,South America,Argentina,Work,Bangalore,18-01-2020,17-04-2020,90,24,High School,N,Y,Approved
+APP00701,South America,Argentina,Tourist,Mumbai,04-03-2023,09-04-2023,36,24,Master's,Y,Y,Approved
+APP00702,South America,Chile,Work,Delhi,12-06-2023,10-09-2023,90,30,Master's,Y,N,Approved
+APP00703,South America,Argentina,Research,Paris,17-08-2021,13-11-2021,88,28,Bachelor's,N,Y,Approved
+APP00704,Africa,Nigeria,Research,Mumbai,05-01-2019,22-03-2019,76,30,Bachelor's,Y,N,Approved
+APP00705,Europe,Italy,Student,Chennai,15-07-2021,24-09-2021,71,25,Diploma,N,N,Approved
+APP00706,Oceania,New Zealand,Student,Delhi,08-11-2022,27-01-2023,80,31,Master's,Y,N,Approved
+APP00707,Asia,Pakistan,Research,Chennai,10-05-2024,12-08-2024,94,28,Bachelor's,Y,Y,Approved
+APP00708,Asia,China,Business,Mumbai,24-02-2020,18-03-2020,23,31,Bachelor's,N,N,Approved
+APP00709,Asia,Japan,Tourist,Bangalore,15-07-2020,09-08-2020,25,24,Master's,Y,Y,Approved
+APP00710,Africa,Kenya,Research,Tokyo,08-08-2020,17-11-2020,101,45,High School,Y,N,Denied
+APP00711,Asia,Bangladesh,Family,Delhi,03-11-2020,05-02-2021,94,21,Master's,N,N,Approved
+APP00712,Africa,South Africa,Research,Hyderabad,12-09-2020,02-01-2021,112,36,Bachelor's,Y,N,Approved
+APP00713,Africa,Ghana,Research,Toronto,08-06-2021,16-09-2021,100,28,Bachelor's,N,Y,Approved
+APP00714,Asia,India,Work,Dubai,19-05-2020,24-08-2020,97,38,Diploma,N,Y,Approved
+APP00715,Oceania,New Zealand,Tourist,New York,12-07-2022,16-08-2022,35,28,Master's,N,Y,Denied
+APP00716,Europe,Germany,Tourist,Tokyo,12-12-2019,22-01-2020,41,37,Bachelor's,N,N,Approved
+APP00717,Europe,Spain,Family,Berlin,13-03-2022,12-06-2022,91,28,High School,N,N,Approved
+APP00718,South America,Brazil,Research,Bangalore,21-04-2021,19-07-2021,89,24,Master's,Y,N,Approved
+APP00719,Oceania,Australia,Research,New York,25-04-2022,13-08-2022,110,30,Bachelor's,Y,Y,Approved
+APP00720,South America,Brazil,Work,Toronto,30-04-2023,10-08-2023,102,28,Bachelor's,Y,Y,Withdrawn
+APP00721,Asia,China,Business,Tokyo,18-10-2019,04-11-2019,17,29,Bachelor's,Y,Y,Approved
+APP00722,Oceania,Australia,Tourist,London,24-06-2020,11-07-2020,17,34,Master's,Y,Y,Approved
+APP00723,Africa,Ghana,Business,London,08-12-2020,02-01-2021,25,24,Bachelor's,Y,Y,Withdrawn
+APP00724,Africa,Nigeria,Student,Berlin,04-10-2019,27-12-2019,84,29,Bachelor's,Y,Y,Approved
+APP00725,Asia,Japan,Work,Delhi,05-09-2019,25-11-2019,81,33,High School,Y,N,Denied
+APP00726,Africa,Ghana,Tourist,Tokyo,14-08-2024,22-08-2024,8,28,Bachelor's,Y,Y,Approved
+APP00727,Africa,Egypt,Research,New York,04-12-2019,05-03-2020,92,32,High School,N,Y,Approved
+APP00728,South America,Chile,Family,Berlin,17-09-2020,21-12-2020,95,26,Bachelor's,Y,N,Approved
+APP00729,North America,USA,Tourist,Mumbai,25-09-2024,23-10-2024,28,29,Bachelor's,N,N,Approved
+APP00730,Europe,Germany,Family,London,20-05-2023,10-08-2023,82,30,Master's,Y,N,Approved
+APP00731,Oceania,Australia,Tourist,Paris,27-11-2023,05-01-2024,39,26,Bachelor's,N,Y,Approved
+APP00732,South America,Brazil,Student,Hyderabad,20-12-2019,23-02-2020,65,24,High School,Y,Y,Approved
+APP00733,Africa,Nigeria,Business,Berlin,14-08-2019,17-08-2019,3,21,Master's,N,Y,Approved
+APP00734,North America,Mexico,Research,Tokyo,20-12-2020,28-03-2021,98,27,Diploma,Y,Y,Approved
+APP00735,Asia,India,Research,Chennai,16-02-2019,04-06-2019,108,23,High School,Y,N,Approved
+APP00736,Europe,Italy,Tourist,Sydney,19-10-2024,10-11-2024,22,39,High School,N,Y,Denied
+APP00737,South America,Argentina,Work,London,03-06-2020,04-09-2020,93,28,High School,Y,N,Denied
+APP00738,South America,Argentina,Research,Mumbai,01-05-2019,07-08-2019,98,31,Diploma,Y,Y,Approved
+APP00739,North America,Canada,Tourist,Sydney,19-09-2019,29-09-2019,10,31,Bachelor's,Y,Y,Approved
+APP00740,North America,Mexico,Family,Tokyo,12-11-2019,07-02-2020,87,35,Bachelor's,Y,Y,Approved
+APP00741,Africa,Egypt,Family,London,16-08-2019,19-10-2019,64,18,High School,Y,N,Withdrawn
+APP00742,Africa,Ghana,Work,London,06-10-2020,30-12-2020,85,29,Diploma,Y,N,Approved
+APP00743,North America,USA,Family,Tokyo,17-04-2020,06-07-2020,80,31,PhD,Y,N,Approved
+APP00744,Europe,Netherlands,Family,Delhi,30-06-2019,03-09-2019,65,33,High School,N,N,Denied
+APP00745,Asia,China,Student,Toronto,30-01-2023,04-05-2023,94,33,High School,Y,Y,Approved
+APP00746,Africa,Kenya,Work,Delhi,14-09-2023,01-12-2023,78,27,Bachelor's,N,Y,Approved
+APP00747,Europe,France,Work,New York,03-08-2022,24-10-2022,82,25,Diploma,Y,N,Approved
+APP00748,North America,USA,Family,London,04-05-2020,10-08-2020,98,26,Diploma,Y,N,Approved
+APP00749,Oceania,Australia,Work,Hyderabad,13-10-2024,31-01-2025,110,22,High School,Y,Y,Approved
+APP00750,Asia,Pakistan,Student,Toronto,02-03-2022,29-04-2022,58,34,Bachelor's,Y,Y,Approved
+APP00751,North America,Canada,Student,Sydney,14-02-2024,03-05-2024,79,28,High School,Y,N,Approved
+APP00752,Asia,Japan,Work,Bangalore,29-05-2022,30-08-2022,93,41,Master's,Y,Y,Approved
+APP00753,South America,Chile,Work,Toronto,17-02-2023,14-05-2023,86,19,Master's,Y,N,Approved
+APP00754,Oceania,New Zealand,Work,Paris,01-10-2021,10-01-2022,101,31,High School,Y,Y,Approved
+APP00755,Europe,UK,Business,Delhi,12-08-2021,04-09-2021,23,31,Bachelor's,Y,N,Approved
+APP00756,Oceania,New Zealand,Research,Paris,09-02-2019,23-04-2019,73,28,Master's,Y,N,Approved
+APP00757,North America,USA,Research,New York,13-06-2022,16-09-2022,95,18,Master's,Y,N,Denied
+APP00758,Asia,China,Family,Hyderabad,16-09-2023,26-12-2023,101,34,Master's,N,Y,Approved
+APP00759,Africa,Nigeria,Work,Paris,20-02-2022,20-06-2022,120,23,Bachelor's,N,Y,Approved
+APP00760,Asia,India,Work,Sydney,19-08-2023,29-11-2023,102,24,Bachelor's,Y,Y,Approved
+APP00761,South America,Argentina,Business,Paris,14-12-2019,17-12-2019,3,29,PhD,N,N,Approved
+APP00762,Oceania,Australia,Family,Chennai,04-06-2023,08-09-2023,96,29,Bachelor's,N,Y,Approved
+APP00763,Asia,Bangladesh,Family,Delhi,17-11-2023,01-02-2024,76,27,High School,Y,N,Approved
+APP00764,South America,Brazil,Work,Bangalore,05-12-2021,16-03-2022,101,33,Bachelor's,Y,N,Approved
+APP00765,North America,Canada,Research,Paris,29-08-2022,22-12-2022,115,35,PhD,Y,Y,Approved
+APP00766,North America,Canada,Tourist,Hyderabad,02-11-2019,29-11-2019,27,24,Master's,Y,Y,Approved
+APP00767,Europe,Germany,Family,Mumbai,28-09-2020,12-12-2020,75,36,Master's,Y,N,Denied
+APP00768,Asia,China,Business,Toronto,10-07-2022,26-07-2022,16,21,Diploma,N,Y,Approved
+APP00769,Africa,Nigeria,Family,London,30-04-2021,12-07-2021,73,25,High School,Y,Y,Denied
+APP00770,Africa,South Africa,Business,Bangalore,06-05-2020,12-05-2020,6,43,PhD,N,N,Approved
+APP00771,Asia,China,Research,Bangalore,15-06-2019,20-09-2019,97,32,Bachelor's,Y,Y,Approved
+APP00772,Europe,France,Work,Mumbai,13-10-2021,06-01-2022,85,22,Bachelor's,N,N,Denied
+APP00773,North America,Canada,Family,Delhi,09-05-2022,08-08-2022,91,40,Diploma,Y,N,Approved
+APP00774,North America,USA,Student,New York,27-01-2024,23-05-2024,117,22,Bachelor's,Y,Y,Denied
+APP00775,Oceania,Australia,Student,Toronto,22-02-2020,04-06-2020,103,24,Bachelor's,Y,Y,Approved
+APP00776,Europe,UK,Student,Delhi,29-06-2021,07-09-2021,70,30,Master's,Y,Y,Approved
+APP00777,Europe,Germany,Business,London,11-12-2019,14-01-2020,34,32,Bachelor's,Y,N,Approved
+APP00778,Oceania,New Zealand,Student,Delhi,22-09-2019,04-12-2019,73,34,Bachelor's,Y,Y,Approved
+APP00779,Europe,Netherlands,Business,Dubai,11-06-2020,20-06-2020,9,34,Diploma,Y,N,Approved
+APP00780,Asia,Japan,Student,Delhi,03-03-2024,05-05-2024,63,31,High School,Y,N,Approved
+APP00781,Asia,China,Family,New York,06-06-2023,29-08-2023,84,25,Master's,Y,Y,Approved
+APP00782,Africa,Nigeria,Business,Tokyo,14-10-2023,24-11-2023,41,20,Bachelor's,Y,Y,Approved
+APP00783,Europe,France,Work,Chennai,31-01-2022,01-05-2022,90,28,Master's,N,N,Denied
+APP00784,North America,Canada,Work,Delhi,03-10-2021,25-01-2022,114,35,Diploma,Y,Y,Approved
+APP00785,South America,Argentina,Business,New York,16-05-2024,21-05-2024,5,36,Bachelor's,N,Y,Approved
+APP00786,Asia,India,Tourist,New York,16-07-2020,12-08-2020,27,35,Bachelor's,Y,Y,Denied
+APP00787,Africa,Kenya,Research,Dubai,23-11-2024,11-03-2025,108,49,High School,Y,N,Approved
+APP00788,Europe,Netherlands,Family,Dubai,21-03-2019,31-05-2019,71,31,Bachelor's,N,Y,Approved
+APP00789,Africa,South Africa,Business,Sydney,08-06-2024,10-07-2024,32,33,Bachelor's,N,N,Denied
+APP00790,North America,Mexico,Family,London,10-05-2023,17-07-2023,68,32,Bachelor's,Y,N,Approved
+APP00791,North America,USA,Student,London,16-06-2021,04-09-2021,80,37,Diploma,N,Y,Approved
+APP00792,Asia,Japan,Student,Dubai,16-04-2024,24-06-2024,69,30,Bachelor's,Y,Y,Withdrawn
+APP00793,Oceania,New Zealand,Family,Hyderabad,15-10-2020,29-12-2020,75,27,Diploma,N,Y,Approved
+APP00794,Asia,China,Research,Hyderabad,27-12-2021,26-04-2022,120,28,Master's,Y,Y,Denied
+APP00795,Oceania,Australia,Work,Berlin,10-05-2023,26-08-2023,108,27,High School,N,N,Denied
+APP00796,North America,USA,Work,Hyderabad,26-07-2022,15-10-2022,81,39,Master's,Y,Y,Approved
+APP00797,South America,Chile,Tourist,Berlin,26-04-2019,30-05-2019,34,25,Master's,Y,Y,Approved
+APP00798,South America,Chile,Tourist,Berlin,05-08-2020,10-09-2020,36,36,PhD,Y,N,Approved
+APP00799,Oceania,Australia,Business,Sydney,19-06-2022,06-07-2022,17,31,Master's,Y,Y,Approved
+APP00800,Europe,Italy,Student,Mumbai,19-08-2019,05-12-2019,108,19,Bachelor's,N,Y,Approved
+APP00801,Europe,Spain,Work,Delhi,26-11-2024,21-02-2025,87,18,Diploma,Y,Y,Approved
+APP00802,Africa,Nigeria,Tourist,Berlin,05-04-2021,13-05-2021,38,31,Diploma,Y,N,Approved
+APP00803,Europe,France,Research,Chennai,18-08-2022,17-11-2022,91,41,Bachelor's,Y,N,Approved
+APP00804,Asia,India,Work,Berlin,03-08-2020,04-11-2020,93,27,PhD,Y,Y,Denied
+APP00805,Asia,Bangladesh,Tourist,Mumbai,11-03-2023,14-04-2023,34,41,Master's,N,Y,Approved
+APP00806,South America,Chile,Business,Berlin,18-02-2020,08-03-2020,19,29,Bachelor's,Y,N,Approved
+APP00807,North America,Canada,Tourist,Chennai,07-10-2020,02-11-2020,26,24,Bachelor's,N,Y,Denied
+APP00808,South America,Argentina,Research,Toronto,23-07-2022,23-10-2022,92,30,PhD,Y,Y,Approved
+APP00809,Europe,Netherlands,Family,Paris,01-01-2023,16-03-2023,74,35,Diploma,Y,Y,Approved
+APP00810,Europe,Netherlands,Family,Chennai,30-03-2023,30-05-2023,61,28,Diploma,Y,N,Approved
+APP00811,North America,Mexico,Research,Bangalore,05-06-2020,12-09-2020,99,32,Diploma,N,Y,Approved
+APP00812,Europe,Netherlands,Student,Paris,23-05-2023,09-08-2023,78,26,Diploma,Y,Y,Approved
+APP00813,Oceania,Australia,Work,Berlin,27-07-2022,24-10-2022,89,32,Bachelor's,Y,Y,Approved
+APP00814,Oceania,Australia,Research,Berlin,02-03-2020,19-06-2020,109,31,Bachelor's,Y,Y,Approved
+APP00815,Africa,Kenya,Tourist,Paris,15-11-2019,25-12-2019,40,19,Master's,N,Y,Approved
+APP00816,Europe,France,Tourist,Chennai,30-12-2019,28-01-2020,29,22,Diploma,Y,Y,Withdrawn
+APP00817,South America,Chile,Research,Paris,07-10-2022,16-01-2023,101,25,High School,Y,Y,Approved
+APP00818,Africa,Nigeria,Tourist,Hyderabad,19-10-2021,28-10-2021,9,22,High School,Y,N,Denied
+APP00819,South America,Brazil,Tourist,Bangalore,18-03-2020,23-04-2020,36,18,Master's,Y,N,Denied
+APP00820,South America,Brazil,Student,New York,30-11-2023,13-02-2024,75,33,High School,Y,Y,Approved
+APP00821,South America,Argentina,Work,New York,12-07-2024,13-10-2024,93,18,Bachelor's,Y,Y,Withdrawn
+APP00822,Africa,South Africa,Family,New York,20-02-2020,09-05-2020,79,38,Bachelor's,Y,Y,Approved
+APP00823,Africa,Ghana,Research,Dubai,12-07-2021,23-10-2021,103,30,Bachelor's,Y,N,Approved
+APP00824,Europe,Italy,Student,Dubai,17-05-2019,12-07-2019,56,21,Bachelor's,N,Y,Approved
+APP00825,North America,USA,Tourist,Bangalore,04-03-2020,13-03-2020,9,36,Master's,Y,Y,Approved
+APP00826,Asia,Japan,Work,New York,21-10-2020,20-01-2021,91,45,Bachelor's,N,Y,Denied
+APP00827,South America,Brazil,Family,Mumbai,16-10-2022,06-01-2023,82,22,Master's,Y,N,Approved
+APP00828,Oceania,New Zealand,Research,Delhi,02-11-2023,08-02-2024,98,23,Bachelor's,N,Y,Withdrawn
+APP00829,South America,Brazil,Family,New York,05-10-2020,02-01-2021,89,27,PhD,Y,Y,Approved
+APP00830,Asia,India,Tourist,Hyderabad,17-02-2021,28-02-2021,11,36,Master's,Y,Y,Approved
+APP00831,Africa,Ghana,Research,Paris,22-12-2021,15-03-2022,83,22,Bachelor's,Y,Y,Approved
+APP00832,South America,Argentina,Tourist,Hyderabad,28-01-2020,23-02-2020,26,32,Bachelor's,Y,N,Approved
+APP00833,Asia,Pakistan,Family,Sydney,03-07-2024,04-10-2024,93,36,Bachelor's,Y,N,Approved
+APP00834,Europe,UK,Tourist,Delhi,18-10-2023,30-11-2023,43,34,Diploma,N,Y,Denied
+APP00835,Asia,Japan,Research,Tokyo,21-05-2024,11-08-2024,82,28,High School,N,Y,Approved
+APP00836,Europe,UK,Student,Hyderabad,30-11-2020,04-03-2021,94,19,Bachelor's,Y,Y,Approved
+APP00837,South America,Argentina,Student,Toronto,18-04-2020,26-06-2020,69,20,Master's,Y,Y,Approved
+APP00838,North America,Canada,Business,Toronto,21-12-2021,02-01-2022,12,35,High School,Y,Y,Approved
+APP00839,Asia,UAE,Family,New York,27-01-2021,22-04-2021,85,32,Master's,Y,N,Approved
+APP00840,North America,Canada,Tourist,Chennai,31-12-2023,02-02-2024,33,27,High School,Y,Y,Approved
+APP00841,Asia,Japan,Business,Toronto,14-12-2021,19-12-2021,5,37,Master's,Y,Y,Approved
+APP00842,Europe,France,Family,Delhi,11-09-2020,08-12-2020,88,21,Bachelor's,N,Y,Approved
+APP00843,South America,Chile,Student,Mumbai,09-11-2022,03-01-2023,55,33,Bachelor's,Y,Y,Denied
+APP00844,Oceania,New Zealand,Family,Hyderabad,07-09-2019,19-12-2019,103,37,Bachelor's,Y,Y,Approved
+APP00845,Africa,Ghana,Business,Sydney,28-04-2024,01-05-2024,3,26,Bachelor's,Y,Y,Approved
+APP00846,Oceania,Australia,Business,Bangalore,20-11-2019,14-12-2019,24,35,High School,N,N,Approved
+APP00847,Africa,Nigeria,Family,Berlin,17-10-2024,08-01-2025,83,24,Master's,Y,N,Approved
+APP00848,Oceania,Australia,Student,Dubai,14-01-2024,27-03-2024,73,30,Bachelor's,Y,Y,Approved
+APP00849,Europe,Germany,Work,Dubai,28-02-2021,25-05-2021,86,30,Bachelor's,N,Y,Approved
+APP00850,Europe,UK,Business,Mumbai,19-11-2023,22-11-2023,3,44,High School,Y,N,Denied
+APP00851,Europe,Netherlands,Work,Berlin,22-11-2021,11-02-2022,81,31,High School,Y,Y,Approved
+APP00852,North America,Mexico,Student,Mumbai,09-05-2023,14-07-2023,66,19,Master's,Y,N,Approved
+APP00853,Oceania,New Zealand,Family,London,05-02-2022,29-04-2022,83,26,Diploma,Y,Y,Withdrawn
+APP00854,Oceania,New Zealand,Student,Dubai,10-11-2024,13-01-2025,64,23,Master's,Y,N,Approved
+APP00855,Africa,Nigeria,Business,Chennai,30-08-2020,19-09-2020,20,37,Bachelor's,Y,N,Withdrawn
+APP00856,Oceania,Australia,Student,Berlin,18-02-2020,06-05-2020,78,35,High School,Y,N,Approved
+APP00857,North America,Mexico,Tourist,New York,17-12-2021,04-01-2022,18,29,Bachelor's,Y,N,Approved
+APP00858,Africa,Egypt,Family,Berlin,21-04-2024,13-07-2024,83,18,High School,N,Y,Approved
+APP00859,Asia,China,Tourist,New York,12-08-2020,22-09-2020,41,22,Bachelor's,N,Y,Approved
+APP00860,Oceania,New Zealand,Student,New York,19-09-2022,22-12-2022,94,24,High School,Y,N,Denied
+APP00861,South America,Brazil,Student,Paris,30-04-2024,22-06-2024,53,18,High School,Y,N,Approved
+APP00862,North America,Canada,Student,London,26-05-2022,28-08-2022,94,28,Master's,Y,Y,Approved
+APP00863,North America,Canada,Business,Paris,07-02-2020,04-03-2020,26,34,High School,N,Y,Approved
+APP00864,Europe,Germany,Tourist,Paris,20-12-2023,05-01-2024,16,30,Master's,Y,Y,Approved
+APP00865,North America,Canada,Research,New York,01-01-2020,28-04-2020,118,32,High School,Y,Y,Denied
+APP00866,Europe,Italy,Work,New York,07-06-2024,22-08-2024,76,20,Bachelor's,Y,Y,Approved
+APP00867,Oceania,New Zealand,Student,Sydney,13-10-2020,10-01-2021,89,42,Master's,Y,Y,Approved
+APP00868,Asia,Japan,Research,Sydney,11-07-2023,29-10-2023,110,32,PhD,Y,Y,Approved
+APP00869,Europe,Spain,Family,Delhi,12-12-2020,05-03-2021,83,38,Bachelor's,N,N,Denied
+APP00870,Europe,Germany,Student,Hyderabad,16-05-2019,24-07-2019,69,35,Bachelor's,Y,N,Approved
+APP00871,Africa,Nigeria,Tourist,Paris,26-03-2021,07-04-2021,12,32,Master's,Y,Y,Approved
+APP00872,North America,Canada,Business,Sydney,14-06-2023,09-07-2023,25,25,Bachelor's,N,Y,Approved
+APP00873,South America,Brazil,Research,Delhi,17-09-2021,18-12-2021,92,26,Bachelor's,Y,N,Approved
+APP00874,North America,Canada,Family,Toronto,28-12-2020,24-02-2021,58,21,PhD,Y,Y,Approved
+APP00875,Africa,Ghana,Family,London,11-11-2022,10-01-2023,60,32,Master's,Y,N,Approved
+APP00876,Europe,France,Research,Paris,06-01-2020,23-04-2020,108,31,Diploma,N,Y,Denied
+APP00877,North America,USA,Business,Delhi,29-10-2020,03-11-2020,5,37,Diploma,Y,Y,Approved
+APP00878,Oceania,Australia,Work,Tokyo,11-07-2021,11-10-2021,92,23,Master's,Y,Y,Approved
+APP00879,South America,Brazil,Tourist,Tokyo,05-08-2023,19-08-2023,14,37,Bachelor's,Y,N,Approved
+APP00880,Oceania,Australia,Research,Delhi,25-04-2024,22-07-2024,88,35,High School,Y,N,Approved
+APP00881,Europe,Netherlands,Work,Berlin,04-02-2019,21-05-2019,106,23,Bachelor's,N,N,Approved
+APP00882,Europe,France,Family,Dubai,05-06-2022,01-09-2022,88,25,High School,N,N,Approved
+APP00883,South America,Chile,Research,Bangalore,02-10-2023,28-12-2023,87,43,Bachelor's,Y,N,Denied
+APP00884,Africa,South Africa,Business,Bangalore,12-06-2021,01-07-2021,19,34,Diploma,Y,Y,Denied
+APP00885,Africa,South Africa,Research,Sydney,15-06-2023,09-10-2023,116,35,Diploma,N,Y,Approved
+APP00886,Oceania,Australia,Student,Sydney,13-03-2023,19-05-2023,67,32,Master's,Y,N,Approved
+APP00887,Oceania,New Zealand,Tourist,Tokyo,18-03-2020,03-04-2020,16,31,High School,N,Y,Denied
+APP00888,Africa,Nigeria,Tourist,Bangalore,24-08-2022,23-09-2022,30,21,PhD,N,Y,Approved
+APP00889,North America,Canada,Research,Paris,08-05-2022,13-08-2022,97,27,Diploma,N,Y,Approved
+APP00890,Europe,Germany,Family,Dubai,11-09-2021,15-11-2021,65,42,Diploma,N,N,Approved
+APP00891,Asia,Bangladesh,Business,Tokyo,02-08-2022,19-08-2022,17,23,Master's,Y,N,Approved
+APP00892,South America,Brazil,Research,Delhi,30-07-2024,19-11-2024,112,36,Diploma,Y,N,Approved
+APP00893,North America,Canada,Business,New York,10-05-2023,05-06-2023,26,18,PhD,Y,N,Approved
+APP00894,South America,Brazil,Family,Paris,16-02-2021,12-05-2021,85,39,Master's,Y,N,Approved
+APP00895,North America,Mexico,Research,Hyderabad,29-12-2024,25-03-2025,86,28,High School,Y,N,Approved
+APP00896,South America,Argentina,Research,London,08-09-2024,25-12-2024,108,24,Bachelor's,Y,Y,Withdrawn
+APP00897,North America,USA,Research,Sydney,11-01-2021,13-05-2021,122,26,High School,Y,Y,Approved
+APP00898,North America,USA,Business,Chennai,25-11-2021,28-12-2021,33,18,High School,Y,N,Approved
+APP00899,South America,Chile,Work,Tokyo,06-10-2022,24-12-2022,79,35,Master's,Y,Y,Approved
+APP00900,South America,Brazil,Work,London,03-07-2021,14-10-2021,103,32,Bachelor's,Y,N,Approved
+APP00901,South America,Argentina,Business,Dubai,19-09-2022,25-09-2022,6,18,Diploma,Y,Y,Withdrawn
+APP00902,North America,Canada,Family,Bangalore,14-03-2024,13-05-2024,60,18,Bachelor's,N,N,Approved
+APP00903,Asia,Pakistan,Student,Tokyo,19-10-2019,09-01-2020,82,41,Bachelor's,Y,Y,Approved
+APP00904,Africa,Kenya,Family,Mumbai,13-04-2023,29-06-2023,77,34,PhD,Y,N,Approved
+APP00905,Oceania,New Zealand,Business,Delhi,09-09-2020,20-09-2020,11,23,High School,Y,Y,Approved
+APP00906,Europe,Germany,Tourist,New York,18-02-2024,02-03-2024,13,26,Bachelor's,N,N,Approved
+APP00907,Europe,France,Research,Chennai,28-11-2019,25-02-2020,89,30,PhD,Y,Y,Approved
+APP00908,Africa,South Africa,Research,Chennai,07-07-2022,20-10-2022,105,22,Diploma,N,N,Approved
+APP00909,South America,Brazil,Student,Toronto,25-01-2022,20-04-2022,85,31,High School,Y,Y,Withdrawn
+APP00910,Europe,Germany,Family,Dubai,10-10-2020,15-01-2021,97,25,Bachelor's,Y,Y,Approved
+APP00911,Africa,Nigeria,Work,Berlin,12-11-2023,23-01-2024,72,26,High School,N,N,Approved
+APP00912,South America,Argentina,Business,New York,09-05-2024,04-06-2024,26,33,High School,Y,N,Approved
+APP00913,Africa,Nigeria,Student,Sydney,27-03-2021,11-06-2021,76,26,Bachelor's,Y,N,Denied
+APP00914,South America,Argentina,Student,London,15-12-2024,06-03-2025,81,29,Bachelor's,N,Y,Denied
+APP00915,Europe,UK,Research,Delhi,16-10-2021,21-01-2022,97,34,Master's,N,Y,Withdrawn
+APP00916,Europe,Netherlands,Tourist,Bangalore,12-06-2020,30-07-2020,48,38,Bachelor's,Y,N,Approved
+APP00917,Asia,Pakistan,Family,Berlin,07-06-2022,03-09-2022,88,30,Bachelor's,N,Y,Approved
+APP00918,Europe,UK,Student,Bangalore,06-04-2022,24-06-2022,79,18,High School,Y,Y,Approved
+APP00919,Africa,Ghana,Family,Sydney,15-10-2022,19-12-2022,65,29,Bachelor's,Y,N,Approved
+APP00920,Africa,Kenya,Tourist,Toronto,11-01-2023,28-01-2023,17,30,Bachelor's,Y,N,Denied
+APP00921,Europe,Germany,Business,Delhi,24-07-2021,08-08-2021,15,32,Bachelor's,N,Y,Approved
+APP00922,Europe,Netherlands,Work,Hyderabad,31-03-2019,28-06-2019,89,30,Bachelor's,N,N,Approved
+APP00923,Oceania,Australia,Student,London,03-06-2019,03-09-2019,92,27,Master's,Y,N,Approved
+APP00924,Africa,South Africa,Family,Berlin,19-07-2019,19-09-2019,62,38,Master's,Y,N,Approved
+APP00925,Oceania,Australia,Research,Mumbai,22-03-2019,13-07-2019,113,32,High School,N,Y,Approved
+APP00926,Asia,UAE,Student,New York,25-12-2023,23-02-2024,60,28,Master's,N,Y,Approved
+APP00927,Africa,Nigeria,Family,Bangalore,27-04-2024,23-07-2024,87,30,Bachelor's,Y,N,Approved
+APP00928,South America,Brazil,Work,Paris,08-02-2019,05-05-2019,86,18,Master's,N,Y,Approved
+APP00929,North America,Canada,Research,Mumbai,01-11-2024,19-03-2025,138,27,Diploma,N,Y,Approved
+APP00930,North America,Mexico,Family,Paris,15-07-2020,29-09-2020,76,27,Master's,Y,Y,Approved
+APP00931,Africa,Nigeria,Family,Paris,27-04-2020,21-07-2020,85,18,Bachelor's,Y,Y,Withdrawn
+APP00932,North America,USA,Student,Toronto,24-03-2021,26-05-2021,63,25,Diploma,Y,N,Approved
+APP00933,Oceania,Australia,Tourist,Sydney,06-04-2021,25-05-2021,49,27,Bachelor's,Y,Y,Approved
+APP00934,North America,Mexico,Business,Bangalore,18-10-2020,05-11-2020,18,28,Bachelor's,N,Y,Denied
+APP00935,Asia,Bangladesh,Business,Hyderabad,22-05-2024,04-06-2024,13,28,Bachelor's,Y,Y,Denied
+APP00936,North America,USA,Student,Delhi,31-12-2019,19-03-2020,79,31,Master's,Y,Y,Approved
+APP00937,Asia,Bangladesh,Research,Toronto,02-09-2020,21-12-2020,110,21,High School,Y,Y,Withdrawn
+APP00938,Asia,Bangladesh,Student,Paris,19-02-2020,11-05-2020,82,34,Bachelor's,Y,Y,Approved
+APP00939,North America,Mexico,Work,Toronto,27-04-2022,11-08-2022,106,25,Bachelor's,Y,Y,Approved
+APP00940,North America,Canada,Student,Mumbai,16-12-2020,14-03-2021,88,29,Bachelor's,N,Y,Approved
+APP00941,Asia,Japan,Tourist,Dubai,04-07-2022,17-07-2022,13,33,Bachelor's,Y,N,Denied
+APP00942,Africa,Nigeria,Student,Dubai,07-07-2019,19-10-2019,104,46,High School,Y,Y,Approved
+APP00943,Asia,China,Research,Tokyo,29-11-2020,24-03-2021,115,36,High School,N,Y,Approved
+APP00944,North America,Canada,Business,Berlin,03-01-2022,14-01-2022,11,20,Diploma,Y,Y,Withdrawn
+APP00945,South America,Brazil,Tourist,London,19-01-2021,16-02-2021,28,26,High School,N,Y,Approved
+APP00946,Asia,Pakistan,Business,Toronto,18-01-2022,21-01-2022,3,31,Diploma,Y,Y,Approved
+APP00947,Africa,Egypt,Business,Tokyo,14-11-2020,20-11-2020,6,36,High School,Y,N,Approved
+APP00948,Asia,China,Research,Paris,29-08-2019,01-12-2019,94,33,Diploma,N,Y,Approved
+APP00949,Europe,UK,Business,Berlin,31-05-2024,10-06-2024,10,41,Master's,Y,Y,Denied
+APP00950,Oceania,New Zealand,Work,Berlin,05-04-2023,24-06-2023,80,21,Bachelor's,Y,Y,Approved
+APP00951,North America,Mexico,Student,Tokyo,19-06-2020,27-08-2020,69,22,Master's,N,Y,Approved
+APP00952,Africa,Egypt,Student,New York,11-12-2023,11-02-2024,62,27,Master's,N,Y,Approved
+APP00953,Asia,India,Tourist,Tokyo,11-07-2022,08-08-2022,28,24,High School,N,N,Approved
+APP00954,Asia,UAE,Research,Sydney,06-07-2021,23-10-2021,109,31,Bachelor's,Y,Y,Denied
+APP00955,South America,Argentina,Family,Sydney,26-01-2020,01-05-2020,96,39,Master's,N,N,Approved
+APP00956,Africa,Kenya,Business,London,26-04-2023,30-05-2023,34,32,Master's,Y,Y,Approved
+APP00957,Europe,Spain,Family,Delhi,17-02-2019,02-05-2019,74,31,Bachelor's,Y,Y,Approved
+APP00958,South America,Brazil,Family,Toronto,23-07-2024,24-10-2024,93,18,Bachelor's,Y,N,Approved
+APP00959,Europe,UK,Business,London,13-09-2021,03-10-2021,20,38,PhD,Y,Y,Approved
+APP00960,North America,Canada,Student,Sydney,01-07-2021,11-10-2021,102,28,High School,Y,Y,Approved
+APP00961,Oceania,New Zealand,Business,Hyderabad,19-11-2019,25-11-2019,6,20,Master's,Y,N,Approved
+APP00962,Africa,Egypt,Family,Toronto,27-12-2019,25-03-2020,89,36,Diploma,Y,N,Approved
+APP00963,Africa,Egypt,Tourist,Mumbai,30-07-2024,18-08-2024,19,33,High School,Y,N,Approved
+APP00964,South America,Chile,Student,Mumbai,11-07-2023,01-10-2023,82,28,Master's,Y,N,Approved
+APP00965,Africa,Nigeria,Family,Sydney,01-01-2019,09-04-2019,98,29,Bachelor's,Y,Y,Approved
+APP00966,Asia,Bangladesh,Family,Tokyo,01-06-2022,05-09-2022,96,30,Bachelor's,Y,N,Approved
+APP00967,Oceania,Australia,Research,Tokyo,12-02-2024,30-05-2024,108,28,Master's,Y,N,Approved
+APP00968,North America,Canada,Student,Hyderabad,05-02-2024,27-04-2024,82,46,Bachelor's,Y,Y,Approved
+APP00969,North America,Mexico,Family,Berlin,21-04-2024,08-07-2024,78,33,Bachelor's,Y,Y,Approved
+APP00970,South America,Chile,Tourist,Paris,28-01-2024,03-03-2024,35,51,Diploma,N,Y,Approved
+APP00971,Asia,India,Research,Hyderabad,09-01-2019,02-04-2019,83,27,Diploma,Y,N,Denied
+APP00972,North America,Canada,Research,Dubai,10-04-2022,15-07-2022,96,29,Diploma,N,Y,Approved
+APP00973,Oceania,New Zealand,Research,Mumbai,07-07-2019,15-10-2019,100,28,High School,Y,N,Withdrawn
+APP00974,Europe,Italy,Work,Paris,04-08-2023,07-10-2023,64,44,Master's,Y,Y,Approved
+APP00975,Asia,Japan,Family,Hyderabad,07-02-2021,25-04-2021,77,18,Bachelor's,Y,Y,Approved
+APP00976,Asia,Pakistan,Work,Toronto,19-02-2021,14-06-2021,115,30,Bachelor's,Y,N,Denied
+APP00977,South America,Argentina,Student,Dubai,25-08-2023,01-12-2023,98,33,PhD,N,N,Approved
+APP00978,Asia,UAE,Research,Berlin,19-05-2020,22-09-2020,126,25,Bachelor's,N,Y,Approved
+APP00979,Africa,Egypt,Research,Berlin,27-08-2024,02-12-2024,97,24,Master's,Y,N,Approved
+APP00980,Europe,Italy,Student,Sydney,18-07-2019,21-09-2019,65,29,Bachelor's,N,N,Denied
+APP00981,Oceania,New Zealand,Family,Toronto,13-09-2024,06-12-2024,84,28,High School,N,Y,Approved
+APP00982,Europe,Netherlands,Family,Chennai,09-06-2020,05-09-2020,88,30,High School,Y,N,Approved
+APP00983,Asia,Pakistan,Research,Berlin,11-08-2022,14-11-2022,95,20,Bachelor's,N,N,Approved
+APP00984,Oceania,New Zealand,Business,Berlin,13-10-2021,27-10-2021,14,32,High School,Y,Y,Approved
+APP00985,North America,Canada,Tourist,Bangalore,29-01-2024,08-03-2024,39,19,Master's,N,N,Approved
+APP00986,Europe,Germany,Business,Berlin,29-09-2024,18-10-2024,19,40,Bachelor's,Y,Y,Approved
+APP00987,North America,Mexico,Family,London,09-06-2021,08-09-2021,91,46,PhD,Y,Y,Approved
+APP00988,Europe,Germany,Family,Paris,05-04-2022,02-06-2022,58,25,Master's,Y,N,Approved
+APP00989,South America,Argentina,Research,Chennai,29-12-2020,06-04-2021,98,27,Diploma,Y,N,Approved
+APP00990,Oceania,New Zealand,Research,Mumbai,13-12-2022,13-03-2023,90,30,Master's,N,N,Denied
+APP00991,Oceania,New Zealand,Family,Berlin,06-09-2023,27-11-2023,82,30,Master's,N,Y,Approved
+APP00992,South America,Chile,Family,Bangalore,27-09-2023,03-12-2023,67,30,Bachelor's,Y,N,Approved
+APP00993,Asia,Bangladesh,Student,Delhi,10-04-2023,23-06-2023,74,20,PhD,Y,Y,Approved
+APP00994,Europe,UK,Research,Delhi,29-03-2021,23-06-2021,86,35,Bachelor's,Y,N,Approved
+APP00995,North America,USA,Tourist,Tokyo,23-10-2021,13-11-2021,21,29,Diploma,N,Y,Approved
+APP00996,Europe,UK,Research,Dubai,23-04-2022,02-08-2022,101,29,High School,N,N,Denied
+APP00997,Europe,Spain,Student,London,28-01-2024,17-04-2024,80,35,High School,N,N,Approved
+APP00998,Asia,Bangladesh,Research,Paris,07-07-2021,26-09-2021,81,30,Master's,N,N,Approved
+APP00999,South America,Chile,Family,New York,31-08-2021,10-11-2021,71,25,Master's,Y,Y,Withdrawn
