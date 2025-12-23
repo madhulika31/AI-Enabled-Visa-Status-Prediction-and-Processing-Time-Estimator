@@ -4,26 +4,24 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 # Set style for plots
 sns.set_style("whitegrid")
 
-# 1. Load the cleaned dataset and convert date columns to datetime
+# Load the cleaned dataset and convert date columns to datetime
 df = pd.read_csv('processed_visa.csv')
 
 # Convert date columns to datetime
 date_cols = ['application_date', 'biometrics_date', 'decision_date']
 for col in date_cols:
     df[col] = pd.to_datetime(df[col], errors='coerce')
-
-# 2. Display dataset shape, info, and summary statistics for processing_days
+    
+# Display dataset shape, info, and summary statistics for processing_days
 print("Dataset Shape:", df.shape)
 print("\nDataset Info:")
 print(df.info())
 print("\nSummary Statistics for processing_days:")
 print(df['processing_days'].describe())
-
-# 3. Visualizations
+# Visualizations
 
 # Distribution of processing_days (histogram with KDE)
 plt.figure(figsize=(10, 6))
@@ -93,7 +91,7 @@ plt.xticks(rotation=45)
 plt.savefig('application_volume_by_processing_center.png')
 plt.show()
 
-# 4. Identify correlations between numeric features and processing_days
+#Identify correlations between numeric features and processing_days
 numeric_cols = df.select_dtypes(include=['number']).columns
 correlations = df[numeric_cols].corr()['processing_days'].sort_values(ascending=False)
 print("\nCorrelations with processing_days:")
@@ -118,7 +116,7 @@ plt.xlabel("Application Month")
 plt.ylabel("Processing Days")
 plt.show()
 
-# 5. Engineer new features
+# Engineer new features
 
 # application_month (already added above)
 # FEATURE 2: Seasonal Index (Peak vs Off-Peak)
