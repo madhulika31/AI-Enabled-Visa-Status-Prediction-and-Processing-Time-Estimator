@@ -81,6 +81,34 @@ Develop and evaluate machine learning models to predict visa processing time.
 - Model performance comparison
 - Final optimized prediction model
 
+
+## Milestone 4: Web Application Development & Deployment
+
+### Objective
+To develop, integrate, and deploy a web-based application that utilizes the trained regression model to predict visa status and estimate visa processing time in real time.
+
+---
+
+### Tasks Performed
+- Designed and developed a user-friendly web interface using **Flask / Streamlit**.
+- Created structured input forms to capture visa application details.
+- Integrated the trained **regression model** from Milestone 3 into the backend.
+- Implemented prediction logic for:
+  - Visa approval status
+  - Estimated processing time (in days)
+- Ensured seamless communication between frontend and backend components.
+- Configured application dependencies and runtime environment.
+- Deployed the application on a **cloud platform** (AWS / Azure / Heroku/Render/Netfly).
+- Performed final functional testing using multiple sample test cases.
+- Validated system performance, accuracy, and response time.
+
+---
+
+### Output
+- Fully functional AI-enabled web application.
+- Real-time prediction of visa status and processing time.
+- Successfully deployed cloud-based solution accessible via web browser.
+- Stable and scalable system ready for real-world usage.
 ---
 
 ## Technologies Used
@@ -92,11 +120,10 @@ Develop and evaluate machine learning models to predict visa processing time.
 ---
 
 ## Project Status
-✔ Milestone 1 – Completed  
-✔ Milestone 2 – Completed  
-✔ Milestone 3 – Completed  
-
-Next Phase: **Web Application Development & Deployment**
+✅ Milestone 1 - Completed 
+✅ Milestone 2 - Completed 
+✅ Milestone 3 - Completed   
+✅ Milestone 4 - Completed
 
 ---
 
