@@ -1,0 +1,21 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Python files
+*.py text eol=lf
+
+# HTML files
+*.html text eol=lf
+
+# CSS files
+*.css text eol=lf
+
+# JS files
+*.js text eol=lf
+
+# Markdown files
+*.md text eol=lf
+
+# Binary files
+*.pkl binary
+*.joblib binary
