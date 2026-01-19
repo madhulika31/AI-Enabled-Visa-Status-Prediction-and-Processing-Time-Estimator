@@ -116,6 +116,8 @@ To develop, integrate, and deploy a web-based application that utilizes the trai
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
+- Streamlit
+- APIs
 
 ---
 
