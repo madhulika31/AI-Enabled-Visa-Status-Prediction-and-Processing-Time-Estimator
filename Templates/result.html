@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Prediction Result</h2>
+<div class="result">
+    <p>Estimated Processing Time: <strong>{{ prediction }} days</strong></p>
+    <p>Based on your inputs, this is the predicted time. Note: Actual times may vary.</p>
+    <canvas id="chart" width="400" height="200"></canvas>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const ctx = document.getElementById('chart').getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Predicted Time'],
+                datasets: [{
+                    label: 'Days',
+                    data: [{{ prediction }}],
+                    backgroundColor: ['#4facfe']
+                }]
+            }
+        });
+    </script>
+</div>
+<a href="/" class="btn btn-secondary">Back to Form</a>
+{% endblock %}
