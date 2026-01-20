@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Visa Processing Time Estimator</h2>
+<p>Use this tool to estimate visa processing time based on your details.</p>
+
+<!-- Progress Indicator -->
+<div class="progress mb-4">
+    <div class="progress-bar" role="progressbar" style="width: 33%" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100">Step 1: Input Details</div>
+</div>
+
+<form method="POST" action="{{ url_for('index') }}">  <!-- Assuming it posts to the main index route for prediction -->
+    <div class="form-group">
+        <label for="visa_type">Visa Type</label>
+        <select id="visa_type" name="visa_type" class="form-control" required>
+            <option value="">Select Visa Type</option>
+            <option value="Tourist">Tourist</option>
+            <option value="Student">Student</option>
+            <option value="Work">Work</option>
+            <option value="Business">Business</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="country">Applicant's Country</label>
+        <select id="country" name="country" class="form-control" required>
+            <option value="">Select Country</option>
+            <option value="USA">🇺🇸 USA</option>
+            <option value="India">🇮🇳 India</option>
+            <option value="China">🇨🇳 China</option>
+            <option value="UK">🇬🇧 UK</option>
+            <option value="Canada">🇨🇦 Canada</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="urgency">Urgency Level</label>
+        <select id="urgency" name="urgency" class="form-control" required>
+            <option value="">Select Urgency</option>
+            <option value="Low">Low</option>
+            <option value="Medium">Medium</option>
+            <option value="High">High</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Estimate Time</button>
+</form>
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+        {% for category, message in messages %}
+            <div class="alert alert-{{ 'danger' if category == 'error' else 'info' }}">{{ message }}</div>
+        {% endfor %}
+    {% endif %}
+{% endwith %}
+{% endblock %}

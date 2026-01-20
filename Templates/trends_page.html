@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Visa Processing Time Trends</h2>
+<p>Explore historical trends and averages in visa processing times.</p>
+
+<!-- Sample Chart: Average Processing Time by Visa Type -->
+<h4>Average Processing Time by Visa Type</h4>
+<canvas id="visaTypeChart" width="400" height="200"></canvas>
+
+<!-- Sample Chart: Average Processing Time by Country -->
+<h4>Average Processing Time by Country</h4>
+<canvas id="countryChart" width="400" height="200"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Sample data (replace with real data from your model or database)
+    const visaTypeData = {
+        labels: ['Tourist', 'Student', 'Work', 'Business'],
+        datasets: [{
+            label: 'Average Days',
+            data: [12, 18, 10, 15],  // Example averages from sample data
+            backgroundColor: ['#4facfe', '#00f2fe', '#28a745', '#ffc107']
+        }]
+    };
+
+    const countryData = {
+        labels: ['USA', 'India', 'China', 'UK', 'Canada'],
+        datasets: [{
+            label: 'Average Days',
+            data: [10, 20, 14, 16, 12],  // Example averages
+            backgroundColor: ['#4facfe', '#00f2fe', '#28a745', '#ffc107', '#dc3545']
+        }]
+    };
+
+    // Visa Type Chart
+    const ctx1 = document.getElementById('visaTypeChart').getContext('2d');
+    new Chart(ctx1, {
+        type: 'bar',
+        data: visaTypeData
+    });
+
+    // Country Chart
+    const ctx2 = document.getElementById('countryChart').getContext('2d');
+    new Chart(ctx2, {
+        type: 'line',
+        data: countryData
+    });
+</script>
+
+<p><em>Note: Trends are based on sample data. Integrate with real datasets for accuracy.</em></p>
+<a href="/estimator" class="btn btn-secondary">Back to Estimator</a>
+{% endblock %}
