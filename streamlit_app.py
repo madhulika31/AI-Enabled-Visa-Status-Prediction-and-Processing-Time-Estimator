@@ -1,37 +1,38 @@
 import streamlit as st
-import pandas as pd
-import pickle
-import os
-from models.preprocess import preprocess_input
+import joblib
+import numpy as np
 
-st.set_page_config(
-    page_title="Visa Processing Time Estimator",
-    page_icon="🛂",
-    layout="centered"
-)
+# Load model and encoders
+model = joblib.load("visa_model.pkl")
+country_enc = joblib.load("country_encoder.pkl")
+visa_enc = joblib.load("visa_encoder.pkl")
+status_enc = joblib.load("status_encoder.pkl")
 
-st.title("🛂 AI Enabled Visa Processing Time Estimator")
+st.set_page_config(page_title="Visa Status Prediction", layout="centered")
 
-# Load model
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.join(BASE_DIR, "models", "model.pkl")
+st.title("✈️ AI Visa Status Prediction App")
 
-with open(MODEL_PATH, "rb") as f:
-    model = pickle.load(f)
+st.write("Enter details to predict visa approval status")
 
 # Inputs
-visa_type = st.selectbox("Visa Type", ["Tourist", "Student", "Work"])
-country = st.selectbox("Country", ["USA", "UK", "Canada"])
-urgency = st.selectbox("Urgency", ["Low", "Medium", "High"])
+country = st.selectbox("Select Country", ["USA", "UK", "India", "Canada"])
+visa_type = st.selectbox("Visa Type", ["Tourist", "Student"])
+documents = st.radio("All documents submitted?", ["Yes", "No"])
 
-if st.button("Predict Processing Time"):
-    input_data = pd.DataFrame({
-        "visa_type": [visa_type],
-        "country": [country],
-        "urgency": [urgency]
-    })
+doc_value = 1 if documents == "Yes" else 0
 
-    processed_data = preprocess_input(input_data)
-    prediction = model.predict(processed_data)[0]
+# Encode inputs
+country_val = country_enc.transform([country])[0]
+visa_val = visa_enc.transform([visa_type])[0]
 
-    st.success(f"Estimated Processing Time: {round(prediction, 2)} days")
+input_data = np.array([[country_val, visa_val, doc_value]])
+
+# Predict
+if st.button("Predict Visa Status"):
+    prediction = model.predict(input_data)
+    result = status_enc.inverse_transform(prediction)[0]
+
+    if result == "Approved":
+        st.success("✅ Visa Approved")
+    else:
+        st.error("❌ Visa Rejected")
