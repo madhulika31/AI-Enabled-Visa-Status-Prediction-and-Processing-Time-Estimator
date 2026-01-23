@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score
 
 # ------------------ Load Dataset ------------------
 # Your dataset file name should be visa_dataset.csv
-df = pd.read_csv("visa_dataset.csv")
+df = pd.read_csv("dataset.csv")
 
 # ------------------ Encoding ------------------
 country_map = {"India": 0, "USA": 1, "UK": 2, "Canada": 3, "Australia": 4}
