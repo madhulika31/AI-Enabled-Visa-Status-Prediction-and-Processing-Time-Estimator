@@ -1,0 +1,48 @@
+Age,Country,VisaType,Experience,Education,VisaStatus
+22,India,Student,0,Bachelor,Approved
+24,India,Student,1,Bachelor,Approved
+26,India,Work,3,Bachelor,Approved
+28,India,Work,5,Master,Approved
+30,India,Work,7,Master,Approved
+35,India,Work,10,PhD,Approved
+21,India,Student,0,High School,Rejected
+23,India,Student,0,Bachelor,Rejected
+25,India,Work,1,Bachelor,Rejected
+29,India,Tourist,0,Bachelor,Rejected
+32,India,Tourist,0,Master,Rejected
+
+23,USA,Student,0,Bachelor,Approved
+25,USA,Student,1,Master,Approved
+27,USA,Work,4,Bachelor,Approved
+29,USA,Work,6,Master,Approved
+34,USA,Work,9,PhD,Approved
+22,USA,Student,0,High School,Rejected
+26,USA,Tourist,0,Bachelor,Rejected
+31,USA,Tourist,0,Master,Rejected
+
+22,UK,Student,0,Bachelor,Approved
+24,UK,Student,1,Master,Approved
+27,UK,Work,4,Bachelor,Approved
+30,UK,Work,7,Master,Approved
+36,UK,Work,12,PhD,Approved
+21,UK,Student,0,High School,Rejected
+28,UK,Tourist,0,Bachelor,Rejected
+33,UK,Tourist,0,Master,Rejected
+
+23,Canada,Student,0,Bachelor,Approved
+25,Canada,Student,1,Master,Approved
+28,Canada,Work,5,Bachelor,Approved
+31,Canada,Work,8,Master,Approved
+37,Canada,Work,13,PhD,Approved
+22,Canada,Student,0,High School,Rejected
+29,Canada,Tourist,0,Bachelor,Rejected
+34,Canada,Tourist,0,Master,Rejected
+
+24,Australia,Student,0,Bachelor,Approved
+26,Australia,Student,1,Master,Approved
+29,Australia,Work,5,Bachelor,Approved
+32,Australia,Work,9,Master,Approved
+38,Australia,Work,14,PhD,Approved
+23,Australia,Student,0,High School,Rejected
+30,Australia,Tourist,0,Bachelor,Rejected
+35,Australia,Tourist,0,Master,Rejected
