@@ -129,15 +129,17 @@ To develop, integrate, and deploy a web-based application that utilizes the trai
 
 ---
 🚀 Future Enhancements:-
-Use advanced ML models to improve prediction accuracy.
-Integrate real-time visa application data.
-Create separate models for different countries and visa types.
-Add user login and application history tracking.
-Provide explanation for predictions using Explainable AI.
-Develop a mobile app version of the system.
-Add multilingual support and chatbot assistance.
+*Use advanced ML models to improve prediction accuracy.
+*Integrate real-time visa application data.
+*Create separate models for different countries and visa types.
+*Add user login and application history tracking.
+*Provide explanation for predictions using Explainable AI.
+*Develop a mobile app version of the system.
+*Add multilingual support and chatbot assistance.
 ✅ Conclusion:-
-The AI-Enabled Visa Status Prediction and Processing Time Estimator helps users predict visa approval chances and expected processing time using machine learning. It reduces uncertainty and supports better planning for applicants. The project shows how AI can be applied in real-world immigration-related problems and provides a strong base for future improvements using real-time data and advanced models.
+The AI-Enabled Visa Status Prediction and Processing Time Estimator helps users predict visa approval chances and expected processing time using machine learning. 
+It reduces uncertainty and supports better planning for applicants. 
+The project shows how AI can be applied in real-world immigration-related problems and provides a strong base for future improvements using real-time data and advanced models.
 
 ## Author
 **Madhulika Thripuravaram**
