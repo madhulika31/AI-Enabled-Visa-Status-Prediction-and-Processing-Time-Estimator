@@ -3,6 +3,18 @@ Deployed Url:https://ai-visa-status-prediction.streamlit.app/
 ## Project Overview
 This project aims to predict visa application processing time using historical data and machine learning techniques.  
 It helps applicants estimate how long their visa application may take based on factors such as visa type, country, application date, and processing center.
+✅ Architecture Highlights:
+
+*Modular design
+
+*Scalable ML model integration
+
+*Real-time prediction
+
+*Interactive dashboards
+
+*Easy cloud deployment
+
 ## Milestone 1: Data Collection & Preprocessing
 
 ### Objective
@@ -132,6 +144,7 @@ To develop, integrate, and deploy a web-based application that utilizes the trai
 
 ---
 🚀 Future Enhancements:-
+
 *Use advanced ML models to improve prediction accuracy.
 
 *Integrate real-time visa application data.
@@ -147,6 +160,7 @@ To develop, integrate, and deploy a web-based application that utilizes the trai
 *Add multilingual support and chatbot assistance.
 
 ✅ Conclusion:-
+
 The AI-Enabled Visa Status Prediction and Processing Time Estimator helps users predict visa approval chances and expected processing time using machine learning. 
 
 It reduces uncertainty and supports better planning for applicants. 
